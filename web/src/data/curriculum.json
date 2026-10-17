@@ -1,0 +1,3278 @@
+{
+  "book": "Suomen mestari 1 (Gehring & Heinzmann, Finn Lectura 2020)",
+  "days": [
+    {
+      "day": 1,
+      "chapter": 1,
+      "title": "Hei ja tervetuloa!",
+      "theme": "Greetings and introducing yourself",
+      "category": "Basics",
+      "pages": "10–13, 16",
+      "grammar": "Personal pronouns (minä, sinä, hän, me, te, he) and the verb olla (to be)",
+      "grammarFile": "grammar/pronouns-olla.md",
+      "sentences": [
+        "Hei! Minä olen ___.",
+        "Hauska tutustua.",
+        "Mitä kuuluu? Kiitos, hyvää.",
+        "Minä olen suomen kurssilla.",
+        "Hän on opettaja."
+      ],
+      "task": "Introduce yourself in 3 sentences: name, where you live, that you study Finnish.",
+      "words": [
+        {
+          "fi": "minä",
+          "en": "I",
+          "exampleFi": "Minä olen opiskelija.",
+          "source": "book",
+          "phonetic": "mi-nae"
+        },
+        {
+          "fi": "sinä",
+          "en": "you",
+          "exampleFi": "Sinä olet suomen kurssilla.",
+          "source": "book",
+          "phonetic": "si-nae"
+        },
+        {
+          "fi": "hän",
+          "en": "he/she",
+          "exampleFi": "Hän on opettaja.",
+          "source": "book",
+          "phonetic": "haen"
+        },
+        {
+          "fi": "me",
+          "en": "we",
+          "exampleFi": "Me olemme ystäviä.",
+          "source": "book"
+        },
+        {
+          "fi": "te",
+          "en": "you all/you plural",
+          "exampleFi": "Te olette kotona.",
+          "source": "book"
+        },
+        {
+          "fi": "he",
+          "en": "they",
+          "exampleFi": "He ovat Helsingissä.",
+          "source": "book"
+        },
+        {
+          "fi": "tervetuloa",
+          "en": "welcome",
+          "exampleFi": "Tervetuloa Suomeen!",
+          "source": "book"
+        },
+        {
+          "fi": "hauska tutustua",
+          "en": "nice to meet you",
+          "exampleFi": "Hei! Hauska tutustua.",
+          "source": "book"
+        },
+        {
+          "fi": "nimi",
+          "en": "name",
+          "exampleFi": "Minun nimeni on Pedro.",
+          "source": "book"
+        },
+        {
+          "fi": "opiskelija",
+          "en": "student",
+          "exampleFi": "Olen opiskelija.",
+          "source": "book"
+        },
+        {
+          "fi": "opettaja",
+          "en": "teacher",
+          "exampleFi": "Opettaja on mukava.",
+          "source": "book"
+        },
+        {
+          "fi": "kurssi",
+          "en": "course",
+          "exampleFi": "Suomen kurssi alkaa tänään.",
+          "source": "book"
+        },
+        {
+          "fi": "nähdään",
+          "en": "see you",
+          "exampleFi": "Nähdään huomenna!",
+          "source": "book"
+        },
+        {
+          "fi": "huomenta",
+          "en": "good morning",
+          "exampleFi": "Huomenta! Mitä kuuluu?",
+          "source": "book",
+          "phonetic": "huo-men-ta"
+        },
+        {
+          "fi": "iltaa",
+          "en": "good evening",
+          "exampleFi": "Hyvää iltaa!",
+          "source": "book"
+        },
+        {
+          "fi": "Hei",
+          "en": "Hello / Hi",
+          "exampleFi": "Hei! Mitä kuuluu?",
+          "exampleEn": "Hi! How are you?",
+          "phonetic": "hey",
+          "source": "yours"
+        },
+        {
+          "fi": "Terve",
+          "en": "Hello / Greetings",
+          "exampleFi": "Terve Anna!",
+          "exampleEn": "Hello Anna!",
+          "phonetic": "ter-veh",
+          "source": "yours"
+        },
+        {
+          "fi": "Mitä kuuluu?",
+          "en": "How are you?",
+          "exampleFi": "Mitä kuuluu sinulle?",
+          "exampleEn": "How are you doing?",
+          "phonetic": "mi-tae kuu-luu",
+          "source": "yours"
+        },
+        {
+          "fi": "Kiitos, hyvää",
+          "en": "Thanks, good",
+          "exampleFi": "Kiitos, minulle kuuluu hyvää.",
+          "exampleEn": "Thanks, I am doing fine.",
+          "phonetic": "kee-tos hy-vae-ae",
+          "source": "yours"
+        },
+        {
+          "fi": "Olen",
+          "en": "I am",
+          "exampleFi": "Minä olen iloinen.",
+          "exampleEn": "I am happy.",
+          "phonetic": "o-len",
+          "source": "yours"
+        },
+        {
+          "fi": "On",
+          "en": "Is / S/he is",
+          "exampleFi": "Suomi on kaunis.",
+          "exampleEn": "Finland is beautiful.",
+          "phonetic": "on",
+          "source": "yours"
+        }
+      ],
+      "lessons": [
+        {
+          "fromDay": 1,
+          "title": "Tervehdykset & Tutustuminen",
+          "subtitle": "Greetings & Basic Introductions",
+          "html": "<h3>Greetings & Polite Expressions</h3>\n<p>In Finnish, formal and informal greetings are widely used depending on the situation:</p>\n<ul>\n<li><strong>Hei / Moi</strong> = Informal \"Hi\"</li>\n<li><strong>Päivää / Hyvää päivää</strong> = Formal \"Good day\"</li>\n<li><strong>Näkemiin</strong> = Goodbye (Formal)</li>\n<li><strong>Moi moi / Hei hei</strong> = Bye bye (Informal)</li>\n</ul>"
+        },
+        {
+          "fromDay": 3,
+          "title": "Persoonapronominit & 'Olla'-verbi",
+          "subtitle": "Personal Pronouns & Verb 'To Be'",
+          "html": "<h3>Conjugating 'Olla' (To Be)</h3>\n<div>\n<div>minä olen (I am)</div><div>me olemme (we are)</div>\n<div>sinä olet (you are)</div><div>te olette (you all are)</div>\n<div>hän on (he/she is)</div><div>he ovat (they are)</div>\n</div>"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "mc",
+          "question": "How do you say 'Good morning' in Finnish?",
+          "options": [
+            "Hyvää iltaa",
+            "Huomenta",
+            "Kiitos",
+            "Näkemiin"
+          ],
+          "correct": 1,
+          "explanation": "'Huomenta' or 'Hyvää huomenta' translates to Good Morning.",
+          "fromDay": 1
+        },
+        {
+          "type": "fitb",
+          "question": "Complete the sentence: 'Mitä ______?' (How are you?)",
+          "correctAnswer": "kuuluu",
+          "explanation": "'Mitä kuuluu?' literally means 'What is heard?' and translates to 'How are you?'",
+          "fromDay": 1
+        },
+        {
+          "type": "mc",
+          "question": "Fill in the blank: 'Minä ___ opiskelija.'",
+          "options": [
+            "on",
+            "olet",
+            "olen",
+            "ovat"
+          ],
+          "correct": 2,
+          "explanation": "'Minä' takes the verb form 'olen'.",
+          "fromDay": 3
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "chapter": 1,
+      "title": "Hei ja tervetuloa!",
+      "theme": "Days of the week, alphabet, numbers 0–100",
+      "category": "Numbers",
+      "pages": "14–15, 17–27",
+      "grammar": "Vowel harmony (a o u vs ä ö y) and long vs short vowels",
+      "grammarFile": "grammar/vowel-harmony.md",
+      "sentences": [
+        "Tänään on maanantai.",
+        "Huomenna on tiistai.",
+        "Puhelinnumeroni on 040 123 4567.",
+        "Minä olen kolmekymmentä vuotta.",
+        "Kurssi on keskiviikkona."
+      ],
+      "task": "Write today's and tomorrow's day, your age, and spell your name in Finnish letters.",
+      "words": [
+        {
+          "fi": "maanantai",
+          "en": "Monday",
+          "exampleFi": "Tänään on maanantai.",
+          "source": "book",
+          "phonetic": "maa-nan-tai"
+        },
+        {
+          "fi": "tiistai",
+          "en": "Tuesday",
+          "exampleFi": "Huomenna on tiistai.",
+          "source": "book"
+        },
+        {
+          "fi": "keskiviikko",
+          "en": "Wednesday",
+          "exampleFi": "Kurssi on keskiviikkona.",
+          "source": "book"
+        },
+        {
+          "fi": "torstai",
+          "en": "Thursday",
+          "exampleFi": "Torstaina menen kauppaan.",
+          "source": "book"
+        },
+        {
+          "fi": "perjantai",
+          "en": "Friday",
+          "exampleFi": "Perjantaina syön kalaa.",
+          "source": "book",
+          "phonetic": "per-jan-tai"
+        },
+        {
+          "fi": "lauantai",
+          "en": "Saturday",
+          "exampleFi": "Lauantaina nukun pitkään.",
+          "source": "book"
+        },
+        {
+          "fi": "sunnuntai",
+          "en": "Sunday",
+          "exampleFi": "Sunnuntaina olen kotona.",
+          "source": "book"
+        },
+        {
+          "fi": "tänään",
+          "en": "today",
+          "exampleFi": "Tänään on kylmä.",
+          "source": "book",
+          "phonetic": "tae-nae-aen"
+        },
+        {
+          "fi": "huomenna",
+          "en": "tomorrow",
+          "exampleFi": "Nähdään huomenna.",
+          "source": "book",
+          "phonetic": "huo-men-na"
+        },
+        {
+          "fi": "eilen",
+          "en": "yesterday",
+          "exampleFi": "Eilen oli sunnuntai.",
+          "source": "book",
+          "phonetic": "ei-len"
+        },
+        {
+          "fi": "viikonloppu",
+          "en": "weekend",
+          "exampleFi": "Hyvää viikonloppua!",
+          "source": "book"
+        },
+        {
+          "fi": "nolla",
+          "en": "zero",
+          "exampleFi": "Puhelinnumero alkaa nollalla.",
+          "source": "book"
+        },
+        {
+          "fi": "neljä",
+          "en": "four",
+          "exampleFi": "Minulla on neljä tuolia.",
+          "source": "book"
+        },
+        {
+          "fi": "viisi",
+          "en": "five",
+          "exampleFi": "Kello on viisi.",
+          "source": "book"
+        },
+        {
+          "fi": "kymmenen",
+          "en": "ten",
+          "exampleFi": "Kurssilla on kymmenen opiskelijaa.",
+          "source": "book",
+          "phonetic": "kym-me-nen"
+        },
+        {
+          "fi": "kaksikymmentä",
+          "en": "twenty",
+          "exampleFi": "Hän on kaksikymmentä vuotta.",
+          "source": "book"
+        },
+        {
+          "fi": "sata",
+          "en": "hundred",
+          "exampleFi": "Sata euroa on paljon.",
+          "source": "book"
+        },
+        {
+          "fi": "Yksi",
+          "en": "One (1)",
+          "exampleFi": "Yksi kahvi, kiitos.",
+          "exampleEn": "One coffee, please.",
+          "phonetic": "uek-si",
+          "source": "yours"
+        },
+        {
+          "fi": "Kaksi",
+          "en": "Two (2)",
+          "exampleFi": "Kaksi lippua.",
+          "exampleEn": "Two tickets.",
+          "phonetic": "kak-si",
+          "source": "yours"
+        },
+        {
+          "fi": "Kolme",
+          "en": "Three (3)",
+          "exampleFi": "Kolme euroa.",
+          "exampleEn": "Three euros.",
+          "phonetic": "kol-me",
+          "source": "yours"
+        },
+        {
+          "fi": "Kello",
+          "en": "Clock / Time",
+          "exampleFi": "Paljonko kello on?",
+          "exampleEn": "What time is it?",
+          "phonetic": "kel-lo",
+          "source": "yours"
+        }
+      ],
+      "lessons": [
+        {
+          "fromDay": 2,
+          "title": "Numerot 1-20 & Aika",
+          "subtitle": "Numbers 1-20 & Time Basics",
+          "html": "<h3>Counting & Asking Time</h3>\n<p>Numbers 11-19 are formed by adding <strong>-toista</strong> to numbers 1-9:</p>\n<div>\n<p>11 = yksitoista | 12 = kaksitoista | 15 = viisitoista</p>\n</div>"
+        },
+        {
+          "fromDay": 10,
+          "title": "Viikonpäivät & Ajankohdat",
+          "subtitle": "Days of the Week & Time Expressions",
+          "html": "<h3>Days of the Week (+na/nä)</h3>\n<p>To say \"on Monday\", add <strong>-na / -nä</strong> to the day name:</p>\n<p>Maanantai -> Maanantaina (On Monday)</p>"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "mc",
+          "question": "What is the Finnish word for number 12?",
+          "options": [
+            "Kymmenen",
+            "Kaksitoista",
+            "Yksitoista",
+            "Kaksi"
+          ],
+          "correct": 1,
+          "explanation": "12 is created by combining Kaksi + toista = Kaksitoista.",
+          "fromDay": 2
+        },
+        {
+          "type": "mc",
+          "question": "How do you say 'On Friday' in Finnish?",
+          "options": [
+            "Perjantai",
+            "Perjantaina",
+            "Huomenna",
+            "Eilen"
+          ],
+          "correct": 1,
+          "explanation": "Add -na ending: Perjantai -> Perjantaina.",
+          "fromDay": 10
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "chapter": 2,
+      "title": "Minkämaalainen sinä olet?",
+      "theme": "Countries, nationalities, languages",
+      "category": "Countries",
+      "pages": "28–41",
+      "grammar": "Consonant gradation (k-p-t) in nouns: Helsinki → Helsingissä, Turku → Turussa (see also Minikielioppi p. 311–312)",
+      "grammarFile": "grammar/consonant-gradation.md",
+      "sentences": [
+        "Mistä sinä olet kotoisin?",
+        "Minä olen kotoisin ___.",
+        "Puhun englantia ja vähän suomea.",
+        "Asun Espoossa.",
+        "Hän on ruotsalainen."
+      ],
+      "task": "Write where you are from, what languages you speak, and where you live now.",
+      "words": [
+        {
+          "fi": "maa",
+          "en": "country",
+          "exampleFi": "Mikä maa?",
+          "source": "book"
+        },
+        {
+          "fi": "Suomi",
+          "en": "Finland",
+          "exampleFi": "Asun Suomessa.",
+          "source": "book"
+        },
+        {
+          "fi": "Ruotsi",
+          "en": "Sweden",
+          "exampleFi": "Ruotsi on Suomen naapuri.",
+          "source": "book"
+        },
+        {
+          "fi": "Venäjä",
+          "en": "Russia",
+          "exampleFi": "Venäjä on iso maa.",
+          "source": "book"
+        },
+        {
+          "fi": "Englanti",
+          "en": "England",
+          "exampleFi": "Hän on kotoisin Englannista.",
+          "source": "book"
+        },
+        {
+          "fi": "suomalainen",
+          "en": "Finnish/a Finn",
+          "exampleFi": "Hanna on suomalainen.",
+          "source": "book"
+        },
+        {
+          "fi": "ruotsalainen",
+          "en": "Swedish/a Swede",
+          "exampleFi": "Hän on ruotsalainen.",
+          "source": "book"
+        },
+        {
+          "fi": "kieli",
+          "en": "language",
+          "exampleFi": "Suomi on vaikea kieli.",
+          "source": "book"
+        },
+        {
+          "fi": "suomi",
+          "en": "Finnish language",
+          "exampleFi": "Puhun vähän suomea.",
+          "source": "book"
+        },
+        {
+          "fi": "englanti",
+          "en": "English language",
+          "exampleFi": "Puhun englantia.",
+          "source": "book"
+        },
+        {
+          "fi": "kotoisin",
+          "en": "from (originally)",
+          "exampleFi": "Mistä olet kotoisin?",
+          "source": "book"
+        },
+        {
+          "fi": "asua",
+          "en": "to live",
+          "exampleFi": "Asun Espoossa.",
+          "source": "book"
+        },
+        {
+          "fi": "kaupunki",
+          "en": "city/town",
+          "exampleFi": "Helsinki on kaupunki.",
+          "source": "book"
+        },
+        {
+          "fi": "pääkaupunki",
+          "en": "capital city",
+          "exampleFi": "Suomen pääkaupunki on Helsinki.",
+          "source": "book"
+        },
+        {
+          "fi": "vähän",
+          "en": "a little",
+          "exampleFi": "Puhun vähän ruotsia.",
+          "source": "book"
+        },
+        {
+          "fi": "hyvin",
+          "en": "well",
+          "exampleFi": "Hän puhuu suomea hyvin.",
+          "source": "book"
+        },
+        {
+          "fi": "Kukka",
+          "en": "Flower",
+          "exampleFi": "Kukka on kaunis.",
+          "exampleEn": "Flower is beautiful.",
+          "phonetic": "kuk-ka",
+          "source": "yours"
+        },
+        {
+          "fi": "Kukassa",
+          "en": "In the flower",
+          "exampleFi": "Perhonen on kukassa.",
+          "exampleEn": "Butterfly is in the flower.",
+          "phonetic": "ku-kas-sa",
+          "source": "yours"
+        },
+        {
+          "fi": "Katu",
+          "en": "Street",
+          "exampleFi": "Asun kadulla.",
+          "exampleEn": "I live on street.",
+          "phonetic": "ka-tu",
+          "source": "yours"
+        },
+        {
+          "fi": "Kadulla",
+          "en": "On the street",
+          "exampleFi": "Autot ajavat kadulla.",
+          "exampleEn": "Cars drive on street.",
+          "phonetic": "ka-dul-la",
+          "source": "yours"
+        },
+        {
+          "fi": "Tapahtuma",
+          "en": "Event",
+          "exampleFi": "Tämä on kiva tapahtuma.",
+          "exampleEn": "This is a nice event.",
+          "phonetic": "ta-pah-tu-ma",
+          "source": "yours"
+        }
+      ],
+      "lessons": [
+        {
+          "fromDay": 17,
+          "title": "KPT-Vaihtelu (Consonant Gradation)",
+          "subtitle": "K, P, T Changes in Nouns & Verbs",
+          "html": "<h3>Consonant Gradation Basics</h3>\n<p>Consonants K, P, T weaken when endings close the syllable:</p>\n<div>\n<p>KK -> K (Kukka -> Kukan)</p>\n<p>TT -> T (Konsertti -> Konsertin)</p>\n<p>T -> D (Katu -> Kadulla)</p>\n<p>P -> V (Lapa -> Lavan)</p>\n</div>"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "fitb",
+          "question": "Apply KPT gradation (T -> D): Katu + lla = ______",
+          "correctAnswer": "kadulla",
+          "explanation": "'t' weakens to 'd': Katu -> Kadulla.",
+          "fromDay": 17
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "chapter": 2,
+      "title": "Minkämaalainen sinä olet?",
+      "theme": "Everyday verbs and asking questions",
+      "category": "Questions",
+      "pages": "42–55",
+      "grammar": "Verb type 1 conjugation, negative sentences (en, et, ei…), question words and -ko/-kö",
+      "grammarFile": "grammar/verb-types.md",
+      "sentences": [
+        "Puhutko suomea?",
+        "En puhu ruotsia.",
+        "Missä sinä asut?",
+        "Mitä sinä teet?",
+        "Asutko Helsingissä?"
+      ],
+      "task": "Write 3 yes/no questions with -ko/-kö and answer each one in the negative.",
+      "words": [
+        {
+          "fi": "puhua",
+          "en": "to speak",
+          "exampleFi": "Puhutko suomea?",
+          "source": "book",
+          "phonetic": "pu-hu-a"
+        },
+        {
+          "fi": "ymmärtää",
+          "en": "to understand",
+          "exampleFi": "En ymmärrä.",
+          "source": "book"
+        },
+        {
+          "fi": "kysyä",
+          "en": "to ask",
+          "exampleFi": "Saanko kysyä?",
+          "source": "book"
+        },
+        {
+          "fi": "vastata",
+          "en": "to answer",
+          "exampleFi": "Vastaan kysymykseen.",
+          "source": "book"
+        },
+        {
+          "fi": "opiskella",
+          "en": "to study",
+          "exampleFi": "Opiskelen suomea.",
+          "source": "book"
+        },
+        {
+          "fi": "tehdä",
+          "en": "to do/to make",
+          "exampleFi": "Mitä teet?",
+          "source": "book"
+        },
+        {
+          "fi": "missä",
+          "en": "where",
+          "exampleFi": "Missä sinä asut?",
+          "source": "book",
+          "phonetic": "mis-sae",
+          "exampleEn": "Where do you live?"
+        },
+        {
+          "fi": "mistä",
+          "en": "where from",
+          "exampleFi": "Mistä olet kotoisin?",
+          "source": "book"
+        },
+        {
+          "fi": "mihin",
+          "en": "where to",
+          "exampleFi": "Mihin menet?",
+          "source": "book"
+        },
+        {
+          "fi": "mitä",
+          "en": "what",
+          "exampleFi": "Mitä tämä on?",
+          "source": "book"
+        },
+        {
+          "fi": "kuka",
+          "en": "who",
+          "exampleFi": "Kuka hän on?",
+          "source": "book",
+          "phonetic": "ku-ka"
+        },
+        {
+          "fi": "milloin",
+          "en": "when",
+          "exampleFi": "Milloin kurssi alkaa?",
+          "source": "book"
+        },
+        {
+          "fi": "miksi",
+          "en": "why",
+          "exampleFi": "Miksi opiskelet suomea?",
+          "source": "book"
+        },
+        {
+          "fi": "miten",
+          "en": "how",
+          "exampleFi": "Miten menee?",
+          "source": "book"
+        },
+        {
+          "fi": "paljonko",
+          "en": "how much",
+          "exampleFi": "Paljonko kello on?",
+          "source": "book"
+        },
+        {
+          "fi": "joo",
+          "en": "yeah",
+          "exampleFi": "Joo! Tulen mukaan.",
+          "source": "book"
+        },
+        {
+          "fi": "ei",
+          "en": "no/not",
+          "exampleFi": "Ei kiitos.",
+          "source": "book"
+        },
+        {
+          "fi": "Onko?",
+          "en": "Is it?",
+          "exampleFi": "Onko tämä sinun?",
+          "exampleEn": "Is this yours?",
+          "phonetic": "on-ko",
+          "source": "yours"
+        },
+        {
+          "fi": "Puhutko?",
+          "en": "Do you speak?",
+          "exampleFi": "Puhutko englantia?",
+          "exampleEn": "Do you speak English?",
+          "phonetic": "pu-hut-ko",
+          "source": "yours"
+        },
+        {
+          "fi": "Mikä?",
+          "en": "What?",
+          "exampleFi": "Mikä tämä on?",
+          "exampleEn": "What is this?",
+          "phonetic": "mi-kae",
+          "source": "yours"
+        },
+        {
+          "fi": "Asua",
+          "en": "To live / reside",
+          "exampleFi": "Minä asun Helsingissä.",
+          "exampleEn": "I live in Helsinki.",
+          "phonetic": "a-su-a",
+          "source": "yours"
+        },
+        {
+          "fi": "Ostaa",
+          "en": "To buy",
+          "exampleFi": "Ostan leipää.",
+          "exampleEn": "I buy bread.",
+          "phonetic": "os-taa",
+          "source": "yours"
+        },
+        {
+          "fi": "Katsoa",
+          "en": "To watch / look",
+          "exampleFi": "Katson televisiota.",
+          "exampleEn": "I watch TV.",
+          "phonetic": "kat-so-a",
+          "source": "yours"
+        },
+        {
+          "fi": "Nukkua",
+          "en": "To sleep",
+          "exampleFi": "Nukun liian vähän.",
+          "exampleEn": "I sleep too little.",
+          "phonetic": "nuk-ku-a",
+          "source": "yours"
+        }
+      ],
+      "lessons": [
+        {
+          "fromDay": 4,
+          "title": "Vokaaliharmonia & Kysymykset",
+          "subtitle": "Vowel Harmony & -Ko/-Kö Questions",
+          "html": "<h3>Asking Questions with -ko/-kö</h3>\n<p>To create a yes/no question, attach <strong>-ko</strong> or <strong>-kö</strong> to the verb:</p>\n<p>Olet (you are) + ko -> Oletko sinä suomalainen? (Are you Finnish?)</p>"
+        },
+        {
+          "fromDay": 7,
+          "title": "Verbi Tyyppi 1 (Verb Type 1)",
+          "subtitle": "Verbs ending in -a / -ä",
+          "html": "<h3>Verb Type 1 Rules</h3>\n<p>Verb Type 1 infinitive ends in a vowel + -a/-ä (puhua, asua, ostaa). Remove the last -a/-ä to get stem, then add endings (-n, -t, vowel doubles, -mme, -tte, -vat).</p>"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "mc",
+          "question": "How do you ask 'Do you speak English?'",
+          "options": [
+            "Puhutko englantia?",
+            "Mitä englantia?",
+            "Kuka englantia?",
+            "Oletko englantia?"
+          ],
+          "correct": 0,
+          "explanation": "Puhut (you speak) + ko = Puhutko?",
+          "fromDay": 4
+        },
+        {
+          "type": "fitb",
+          "question": "Conjugate 'asua' for 'minä': Minä ______",
+          "correctAnswer": "asun",
+          "explanation": "Stem of asua is asu- + ending -n = asun.",
+          "fromDay": 7
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "chapter": 3,
+      "title": "Pedro soittaa Mikolle",
+      "theme": "Weather, seasons, months, times of day",
+      "category": "Weather",
+      "pages": "56–69",
+      "grammar": "Genitive (-n): minun nimeni, Pedron puhelin, Suomen pääkaupunki",
+      "grammarFile": "grammar/cases.md",
+      "sentences": [
+        "Tänään sataa.",
+        "Syksyllä on kylmä.",
+        "Lokakuu on syksyn kuukausi.",
+        "Minun syntymäpäiväni on kesäkuussa.",
+        "Aamulla on pimeää."
+      ],
+      "task": "Describe today's weather and name your favourite season and why.",
+      "words": [
+        {
+          "fi": "sää",
+          "en": "weather",
+          "exampleFi": "Millainen sää on tänään?",
+          "source": "book",
+          "phonetic": "sae-ae"
+        },
+        {
+          "fi": "sataa",
+          "en": "it rains",
+          "exampleFi": "Tänään sataa.",
+          "source": "book"
+        },
+        {
+          "fi": "paistaa",
+          "en": "to shine",
+          "exampleFi": "Aurinko paistaa.",
+          "source": "book"
+        },
+        {
+          "fi": "aurinko",
+          "en": "sun",
+          "exampleFi": "Aurinko paistaa.",
+          "source": "book"
+        },
+        {
+          "fi": "lumi",
+          "en": "snow",
+          "exampleFi": "Talvella on paljon lunta.",
+          "source": "book"
+        },
+        {
+          "fi": "tuuli",
+          "en": "wind",
+          "exampleFi": "Tuuli on kylmä.",
+          "source": "book"
+        },
+        {
+          "fi": "kylmä",
+          "en": "cold",
+          "exampleFi": "Ulkona on kylmä.",
+          "source": "book",
+          "phonetic": "kyl-mae",
+          "exampleEn": "It is cold outside."
+        },
+        {
+          "fi": "lämmin",
+          "en": "warm",
+          "exampleFi": "Kesällä on lämmin.",
+          "source": "book",
+          "phonetic": "laem-min",
+          "exampleEn": "In summer it is warm."
+        },
+        {
+          "fi": "kevät",
+          "en": "spring",
+          "exampleFi": "Keväällä on valoisaa.",
+          "source": "book"
+        },
+        {
+          "fi": "kesä",
+          "en": "summer",
+          "exampleFi": "Kesällä uin järvessä.",
+          "source": "book"
+        },
+        {
+          "fi": "syksy",
+          "en": "autumn",
+          "exampleFi": "Syksyllä sataa paljon.",
+          "source": "book"
+        },
+        {
+          "fi": "talvi",
+          "en": "winter",
+          "exampleFi": "Talvi on pitkä.",
+          "source": "book"
+        },
+        {
+          "fi": "kuukausi",
+          "en": "month",
+          "exampleFi": "Lokakuu on syksyn kuukausi.",
+          "source": "book"
+        },
+        {
+          "fi": "tammikuu",
+          "en": "January",
+          "exampleFi": "Tammikuussa on kylmä.",
+          "source": "book"
+        },
+        {
+          "fi": "kesäkuu",
+          "en": "June",
+          "exampleFi": "Kesäkuussa on juhannus.",
+          "source": "book"
+        },
+        {
+          "fi": "lokakuu",
+          "en": "October",
+          "exampleFi": "Nyt on lokakuu.",
+          "source": "book"
+        },
+        {
+          "fi": "aamu",
+          "en": "morning",
+          "exampleFi": "Aamulla juon kahvia.",
+          "source": "book"
+        },
+        {
+          "fi": "ilta",
+          "en": "evening",
+          "exampleFi": "Illalla luen kirjaa.",
+          "source": "book"
+        },
+        {
+          "fi": "Aurinko paistaa",
+          "en": "The sun is shining",
+          "exampleFi": "Tänään aurinko paistaa.",
+          "exampleEn": "Today the sun shines.",
+          "phonetic": "au-rin-ko pais-taa",
+          "source": "yours"
+        },
+        {
+          "fi": "Sataa lunta",
+          "en": "It is snowing",
+          "exampleFi": "Talvella sataa lunta.",
+          "exampleEn": "In winter it snows.",
+          "phonetic": "sa-taa lun-ta",
+          "source": "yours"
+        }
+      ],
+      "lessons": [
+        {
+          "fromDay": 8,
+          "title": "Sää & Vuodenajat",
+          "subtitle": "Weather & Seasons",
+          "html": "<h3>Describing Weather</h3>\n<p>Use <strong>On + Adjective</strong> or <strong>[Noun] + verb</strong>:</p>\n<ul>\n<li>On kylmä (It is cold)</li>\n<li>Sataa vettä (It is raining)</li>\n</ul>"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "mc",
+          "question": "What does 'Aurinko paistaa' mean?",
+          "options": [
+            "It is cold",
+            "The sun is shining",
+            "It is raining",
+            "The wind is blowing"
+          ],
+          "correct": 1,
+          "explanation": "Aurinko = Sun, paistaa = shines.",
+          "fromDay": 8
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "chapter": 3,
+      "title": "Pedro soittaa Mikolle",
+      "theme": "Adjectives and personal details (forms, phone calls)",
+      "category": "Describing",
+      "pages": "70–85",
+      "grammar": "t-plural (talo → talot), consonant gradation in type 1 verbs (nukkua → nukun) (see also Minikielioppi p. 311–312)",
+      "grammarFile": "grammar/consonant-gradation.md",
+      "sentences": [
+        "Talot ovat isoja.",
+        "Nukun hyvin.",
+        "Mikä sinun osoitteesi on?",
+        "Sää on kaunis.",
+        "Kirjat ovat pöydällä."
+      ],
+      "task": "Fill in a pretend registration form in Finnish: nimi, osoite, puhelinnumero, sähköposti.",
+      "words": [
+        {
+          "fi": "iso",
+          "en": "big",
+          "exampleFi": "Talo on iso.",
+          "source": "book"
+        },
+        {
+          "fi": "pieni",
+          "en": "small",
+          "exampleFi": "Asunto on pieni.",
+          "source": "book"
+        },
+        {
+          "fi": "uusi",
+          "en": "new",
+          "exampleFi": "Minulla on uusi puhelin.",
+          "source": "book"
+        },
+        {
+          "fi": "vanha",
+          "en": "old",
+          "exampleFi": "Tämä talo on vanha.",
+          "source": "book"
+        },
+        {
+          "fi": "kaunis",
+          "en": "beautiful",
+          "exampleFi": "Sää on kaunis.",
+          "source": "book"
+        },
+        {
+          "fi": "hyvä",
+          "en": "good",
+          "exampleFi": "Kahvi on hyvää.",
+          "source": "book"
+        },
+        {
+          "fi": "huono",
+          "en": "bad",
+          "exampleFi": "Sää on huono.",
+          "source": "book"
+        },
+        {
+          "fi": "helppo",
+          "en": "easy",
+          "exampleFi": "Tämä on helppoa.",
+          "source": "book"
+        },
+        {
+          "fi": "vaikea",
+          "en": "difficult",
+          "exampleFi": "Suomi on vaikea kieli.",
+          "source": "book"
+        },
+        {
+          "fi": "osoite",
+          "en": "address",
+          "exampleFi": "Mikä sinun osoitteesi on?",
+          "source": "book"
+        },
+        {
+          "fi": "puhelinnumero",
+          "en": "phone number",
+          "exampleFi": "Mikä on puhelinnumerosi?",
+          "source": "book"
+        },
+        {
+          "fi": "sähköposti",
+          "en": "email",
+          "exampleFi": "Lähetän sähköpostia.",
+          "source": "book"
+        },
+        {
+          "fi": "soittaa",
+          "en": "to call",
+          "exampleFi": "Soitan sinulle huomenna.",
+          "source": "book"
+        },
+        {
+          "fi": "syntymäaika",
+          "en": "date of birth",
+          "exampleFi": "Kirjoita syntymäaikasi tähän.",
+          "source": "book"
+        },
+        {
+          "fi": "ikä",
+          "en": "age",
+          "exampleFi": "Mikä on sinun ikäsi?",
+          "source": "book"
+        },
+        {
+          "fi": "avata",
+          "en": "to open",
+          "exampleFi": "Avaan oven.",
+          "source": "book"
+        }
+      ],
+      "lessons": [],
+      "quiz": []
+    },
+    {
+      "day": 7,
+      "chapter": 0,
+      "title": "Review: chapters 1–3",
+      "theme": "Review week 1",
+      "category": "Review",
+      "pages": "290–293 (Lisäharjoitukset)",
+      "grammar": "Review: olla, verb type 1, negatives, genitive, k-p-t gradation",
+      "grammarFile": "grammar/cases.md",
+      "sentences": [
+        "Minä olen ___ ja asun ___.",
+        "En ole suomalainen.",
+        "Tänään on sunnuntai ja sää on kylmä.",
+        "Puhun kolmea kieltä.",
+        "Minun kurssini on maanantaina."
+      ],
+      "task": "Run the review quiz for days 1–6, then write 8 sentences about yourself without notes.",
+      "words": [
+        {
+          "fi": "kerrata",
+          "en": "to review",
+          "exampleFi": "Tänään kertaan sanoja.",
+          "source": "book"
+        },
+        {
+          "fi": "muistaa",
+          "en": "to remember",
+          "exampleFi": "Muistatko tämän sanan?",
+          "source": "book"
+        },
+        {
+          "fi": "unohtaa",
+          "en": "to forget",
+          "exampleFi": "Unohdin sanan.",
+          "source": "book"
+        },
+        {
+          "fi": "sana",
+          "en": "word",
+          "exampleFi": "Mitä tämä sana tarkoittaa?",
+          "source": "book"
+        },
+        {
+          "fi": "lause",
+          "en": "sentence",
+          "exampleFi": "Kirjoitan lauseen.",
+          "source": "book"
+        },
+        {
+          "fi": "kysymys",
+          "en": "question",
+          "exampleFi": "Minulla on kysymys.",
+          "source": "book"
+        },
+        {
+          "fi": "vastaus",
+          "en": "answer",
+          "exampleFi": "Vastaus on oikein.",
+          "source": "book"
+        },
+        {
+          "fi": "oikein",
+          "en": "right/correct",
+          "exampleFi": "Oikein!",
+          "source": "book"
+        },
+        {
+          "fi": "väärin",
+          "en": "wrong",
+          "exampleFi": "Väärin.",
+          "source": "book"
+        },
+        {
+          "fi": "harjoitus",
+          "en": "exercise",
+          "exampleFi": "Teen harjoituksen.",
+          "source": "book"
+        }
+      ],
+      "lessons": [],
+      "quiz": []
+    },
+    {
+      "day": 8,
+      "chapter": 4,
+      "title": "Minä",
+      "theme": "Family, appearance, colours",
+      "category": "Family",
+      "pages": "86–99",
+      "grammar": "Partitive singular — after numbers, negatives, mass nouns (see also Minikielioppi p. 313)",
+      "grammarFile": "grammar/cases.md",
+      "sentences": [
+        "Minulla on kaksi veljeä.",
+        "Äitini on pitkä ja hänellä on ruskeat hiukset.",
+        "Minulla ei ole siskoa.",
+        "Lempivärini on sininen.",
+        "Isäni on viisikymmentä vuotta."
+      ],
+      "task": "Describe your family: who they are, how old, what they look like.",
+      "words": [
+        {
+          "fi": "perhe",
+          "en": "family",
+          "exampleFi": "Minun perheeni on iso.",
+          "source": "book",
+          "phonetic": "per-he"
+        },
+        {
+          "fi": "äiti",
+          "en": "mother",
+          "exampleFi": "Äitini asuu kaukana.",
+          "source": "book",
+          "phonetic": "aei-ti"
+        },
+        {
+          "fi": "isä",
+          "en": "father",
+          "exampleFi": "Isä on töissä.",
+          "source": "book",
+          "phonetic": "i-sae"
+        },
+        {
+          "fi": "veli",
+          "en": "brother",
+          "exampleFi": "Minulla on kaksi veljeä.",
+          "source": "book"
+        },
+        {
+          "fi": "sisko",
+          "en": "sister",
+          "exampleFi": "Minulla ei ole siskoa.",
+          "source": "book"
+        },
+        {
+          "fi": "lapsi",
+          "en": "child",
+          "exampleFi": "Heillä on yksi lapsi.",
+          "source": "book",
+          "phonetic": "lap-si"
+        },
+        {
+          "fi": "poika",
+          "en": "son/boy",
+          "exampleFi": "Poika on viisivuotias.",
+          "source": "book"
+        },
+        {
+          "fi": "tyttö",
+          "en": "girl",
+          "exampleFi": "Tyttö leikkii.",
+          "source": "book"
+        },
+        {
+          "fi": "vaimo",
+          "en": "wife",
+          "exampleFi": "Hänen vaimonsa on lääkäri.",
+          "source": "book"
+        },
+        {
+          "fi": "mies",
+          "en": "man/husband",
+          "exampleFi": "Mies on pitkä.",
+          "source": "book"
+        },
+        {
+          "fi": "pitkä",
+          "en": "tall/long",
+          "exampleFi": "Isäni on pitkä.",
+          "source": "book"
+        },
+        {
+          "fi": "lyhyt",
+          "en": "short",
+          "exampleFi": "Hän on lyhyt.",
+          "source": "book"
+        },
+        {
+          "fi": "hiukset",
+          "en": "hair",
+          "exampleFi": "Hänellä on ruskeat hiukset.",
+          "source": "book"
+        },
+        {
+          "fi": "silmät",
+          "en": "eyes",
+          "exampleFi": "Hänellä on siniset silmät.",
+          "source": "book"
+        },
+        {
+          "fi": "sininen",
+          "en": "blue",
+          "exampleFi": "Lempivärini on sininen.",
+          "source": "book"
+        },
+        {
+          "fi": "punainen",
+          "en": "red",
+          "exampleFi": "Auto on punainen.",
+          "source": "book"
+        },
+        {
+          "fi": "musta",
+          "en": "black",
+          "exampleFi": "Takki on musta.",
+          "source": "book"
+        },
+        {
+          "fi": "valkoinen",
+          "en": "white",
+          "exampleFi": "Lumi on valkoinen.",
+          "source": "book"
+        },
+        {
+          "fi": "vihreä",
+          "en": "green",
+          "exampleFi": "Puu on vihreä.",
+          "source": "book"
+        },
+        {
+          "fi": "Ystävä",
+          "en": "Friend",
+          "exampleFi": "Hän on minun ystäväni.",
+          "exampleEn": "S/he is my friend.",
+          "phonetic": "ys-tae-vae",
+          "source": "yours"
+        },
+        {
+          "fi": "Kipu",
+          "en": "Pain / Ache",
+          "exampleFi": "Minulla on kipua.",
+          "exampleEn": "I am in pain.",
+          "phonetic": "ki-pu",
+          "source": "yours"
+        },
+        {
+          "fi": "Pää",
+          "en": "Head",
+          "exampleFi": "Päätä särkee.",
+          "exampleEn": "I have a headache.",
+          "phonetic": "pae-ae",
+          "source": "yours"
+        },
+        {
+          "fi": "Käsi",
+          "en": "Hand / Arm",
+          "exampleFi": "Pese kädet.",
+          "exampleEn": "Wash your hands.",
+          "phonetic": "kae-si",
+          "source": "yours"
+        },
+        {
+          "fi": "Lääkäri",
+          "en": "Doctor",
+          "exampleFi": "Menen lääkäriin.",
+          "exampleEn": "I am going to doctor.",
+          "phonetic": "lae-ae-ka-ri",
+          "source": "yours"
+        },
+        {
+          "fi": "Sairas",
+          "en": "Sick / Ill",
+          "exampleFi": "Olen sairas tänään.",
+          "exampleEn": "I am sick today.",
+          "phonetic": "sai-ras",
+          "source": "yours"
+        }
+      ],
+      "lessons": [
+        {
+          "fromDay": 6,
+          "title": "Perhe & Ihmissuhteet",
+          "subtitle": "Family & Relationships",
+          "html": "<h3>Expressing Possession ('Minulla on')</h3>\n<p>Finnish has no verb for \"to have\". Instead, use <strong>[Person + lla/llä] + on</strong>:</p>\n<div>\nMinulla on kissa = I have a cat.<br>Sinulla on koira = You have a dog.\n</div>"
+        },
+        {
+          "fromDay": 16,
+          "title": "Terveys & Keho",
+          "subtitle": "Health & Human Body",
+          "html": "<h3>Expressing Aches ('[Body part] särkee')</h3>\n<p>To say something hurts:</p>\n<p>Päätä särkee = Head hurts.<br>Vatsaa särkee = Stomach hurts.</p>"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "mc",
+          "question": "How do you say 'I have a family'?",
+          "options": [
+            "Minä olen perhe",
+            "Minulla on perhe",
+            "Minä perhe",
+            "On perhe minä"
+          ],
+          "correct": 1,
+          "explanation": "'Minulla on' means 'I have'.",
+          "fromDay": 6
+        },
+        {
+          "type": "mc",
+          "question": "How do you say 'I am sick today'?",
+          "options": [
+            "Olen sairas tänään",
+            "Minulla on sairas",
+            "Pää särkee",
+            "En ole sairas"
+          ],
+          "correct": 0,
+          "explanation": "'Olen sairas' = I am sick.",
+          "fromDay": 16
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "chapter": 4,
+      "title": "Minä",
+      "theme": "Shopping for clothes",
+      "category": "Shopping",
+      "pages": "100–113",
+      "grammar": "Minulla on… (having) and partitive verbs (rakastaa, odottaa, auttaa)",
+      "grammarFile": "grammar/cases.md",
+      "sentences": [
+        "Minulla on uusi takki.",
+        "Etsin sinistä paitaa.",
+        "Paljonko tämä maksaa?",
+        "Rakastan kahvia.",
+        "Odotan bussia."
+      ],
+      "task": "Write a short shop dialogue: you look for an item, ask the price and the size.",
+      "words": [
+        {
+          "fi": "vaatteet",
+          "en": "clothes",
+          "exampleFi": "Ostan uusia vaatteita.",
+          "source": "book",
+          "phonetic": "vaat-teet",
+          "exampleEn": "I buy new clothes."
+        },
+        {
+          "fi": "takki",
+          "en": "coat/jacket",
+          "exampleFi": "Minulla on uusi takki.",
+          "source": "book",
+          "phonetic": "tak-ki"
+        },
+        {
+          "fi": "paita",
+          "en": "shirt",
+          "exampleFi": "Etsin sinistä paitaa.",
+          "source": "book",
+          "phonetic": "pai-ta"
+        },
+        {
+          "fi": "housut",
+          "en": "trousers",
+          "exampleFi": "Housut ovat liian pitkät.",
+          "source": "book"
+        },
+        {
+          "fi": "kengät",
+          "en": "shoes",
+          "exampleFi": "Tarvitsen uudet kengät.",
+          "source": "book",
+          "phonetic": "ken-gaet"
+        },
+        {
+          "fi": "hattu",
+          "en": "hat",
+          "exampleFi": "Hattu on lämmin.",
+          "source": "book",
+          "phonetic": "hat-tu"
+        },
+        {
+          "fi": "koko",
+          "en": "size",
+          "exampleFi": "Mikä koko?",
+          "source": "book"
+        },
+        {
+          "fi": "hinta",
+          "en": "price",
+          "exampleFi": "Mikä on hinta?",
+          "source": "book"
+        },
+        {
+          "fi": "maksaa",
+          "en": "to cost/to pay",
+          "exampleFi": "Paljonko tämä maksaa?",
+          "source": "book"
+        },
+        {
+          "fi": "halpa",
+          "en": "cheap",
+          "exampleFi": "Tämä on halpa.",
+          "source": "book"
+        },
+        {
+          "fi": "kallis",
+          "en": "expensive",
+          "exampleFi": "Takki on kallis.",
+          "source": "book"
+        },
+        {
+          "fi": "etsiä",
+          "en": "to look for",
+          "exampleFi": "Etsin kenkiä.",
+          "source": "book"
+        },
+        {
+          "fi": "sovittaa",
+          "en": "to try on",
+          "exampleFi": "Voinko sovittaa?",
+          "source": "book"
+        },
+        {
+          "fi": "rakastaa",
+          "en": "to love",
+          "exampleFi": "Rakastan kahvia.",
+          "source": "book"
+        },
+        {
+          "fi": "odottaa",
+          "en": "to wait",
+          "exampleFi": "Odotan bussia.",
+          "source": "book"
+        },
+        {
+          "fi": "auttaa",
+          "en": "to help",
+          "exampleFi": "Voinko auttaa?",
+          "source": "book"
+        }
+      ],
+      "lessons": [
+        {
+          "fromDay": 15,
+          "title": "Ulkoasu & Vaatteet",
+          "subtitle": "Appearance & Clothing",
+          "html": "<h3>Plural Nouns Intro</h3>\n<p>Basic nominative plural adds <strong>-t</strong> to the end:</p>\n<p>Kenkä -> Kengät | Takki -> Takit</p>"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "mc",
+          "question": "What is the plural form of 'Kenkä' (shoe)?",
+          "options": [
+            "Kenkät",
+            "Kengät",
+            "Kenkiä",
+            "Kenkä"
+          ],
+          "correct": 1,
+          "explanation": "'Kenkä' experiences consonant gradation (nk -> ng) becoming 'Kengät'.",
+          "fromDay": 15
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "chapter": 5,
+      "title": "Meidän tavallinen päivä",
+      "theme": "Daily routine and telling the time",
+      "category": "Daily life",
+      "pages": "114–129",
+      "grammar": "All verb types 1–5 in the present tense",
+      "grammarFile": "grammar/verb-types.md",
+      "sentences": [
+        "Herään kello seitsemän.",
+        "Syön aamupalaa ja juon kahvia.",
+        "Menen töihin bussilla.",
+        "Illalla katson televisiota.",
+        "Menen nukkumaan kello yksitoista."
+      ],
+      "task": "Write your normal weekday from morning to evening with times.",
+      "words": [
+        {
+          "fi": "herätä",
+          "en": "to wake up",
+          "exampleFi": "Herään kello seitsemän.",
+          "source": "book"
+        },
+        {
+          "fi": "nousta",
+          "en": "to get up",
+          "exampleFi": "Nousen sängystä.",
+          "source": "book"
+        },
+        {
+          "fi": "käydä suihkussa",
+          "en": "to take a shower",
+          "exampleFi": "Käyn suihkussa aamulla.",
+          "source": "book"
+        },
+        {
+          "fi": "syödä",
+          "en": "to eat",
+          "exampleFi": "Syön aamupalaa.",
+          "source": "book",
+          "phonetic": "syoe-dae"
+        },
+        {
+          "fi": "juoda",
+          "en": "to drink",
+          "exampleFi": "Juon kahvia.",
+          "source": "book",
+          "phonetic": "juo-da"
+        },
+        {
+          "fi": "mennä",
+          "en": "to go",
+          "exampleFi": "Menen töihin.",
+          "source": "book"
+        },
+        {
+          "fi": "tulla",
+          "en": "to come",
+          "exampleFi": "Tulen kotiin viideltä.",
+          "source": "book"
+        },
+        {
+          "fi": "tehdä töitä",
+          "en": "to work",
+          "exampleFi": "Teen töitä koko päivän.",
+          "source": "book"
+        },
+        {
+          "fi": "katsoa",
+          "en": "to watch/to look",
+          "exampleFi": "Katson televisiota.",
+          "source": "book"
+        },
+        {
+          "fi": "kuunnella",
+          "en": "to listen",
+          "exampleFi": "Kuuntelen musiikkia.",
+          "source": "book"
+        },
+        {
+          "fi": "nukkua",
+          "en": "to sleep",
+          "exampleFi": "Nukun kahdeksan tuntia.",
+          "source": "book"
+        },
+        {
+          "fi": "kello",
+          "en": "clock/o'clock",
+          "exampleFi": "Kello on kahdeksan.",
+          "source": "book"
+        },
+        {
+          "fi": "puoli",
+          "en": "half",
+          "exampleFi": "Kello on puoli kymmenen.",
+          "source": "book"
+        },
+        {
+          "fi": "tunti",
+          "en": "hour",
+          "exampleFi": "Tunti on pitkä aika.",
+          "source": "book"
+        },
+        {
+          "fi": "päivä",
+          "en": "day",
+          "exampleFi": "Hyvää päivää!",
+          "source": "book"
+        },
+        {
+          "fi": "aina",
+          "en": "always",
+          "exampleFi": "Juon aina kahvia.",
+          "source": "book"
+        },
+        {
+          "fi": "joskus",
+          "en": "sometimes",
+          "exampleFi": "Joskus syön kalaa.",
+          "source": "book"
+        },
+        {
+          "fi": "Tehdä",
+          "en": "To do / make",
+          "exampleFi": "Mitä sinä teet?",
+          "exampleEn": "What are you doing?",
+          "phonetic": "teh-dae",
+          "source": "yours"
+        },
+        {
+          "fi": "Saada",
+          "en": "To get / may",
+          "exampleFi": "Saanko tulla sisään?",
+          "exampleEn": "May I come in?",
+          "phonetic": "saa-da",
+          "source": "yours"
+        },
+        {
+          "fi": "Voida",
+          "en": "To be able to / can",
+          "exampleFi": "Voitko auttaa?",
+          "exampleEn": "Can you help?",
+          "phonetic": "voi-da",
+          "source": "yours"
+        }
+      ],
+      "lessons": [
+        {
+          "fromDay": 13,
+          "title": "Verbi Tyyppi 2 (Verb Type 2)",
+          "subtitle": "Verbs ending in -da / -dä",
+          "html": "<h3>Verb Type 2 Stem Creation</h3>\n<p>Drop <strong>-da / -dä</strong> to find the stem:</p>\n<p>Syödä -> syö- + n = syön (I eat)</p>"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "fitb",
+          "question": "Conjugate 'juoda' for 'sinä': Sinä ______",
+          "correctAnswer": "juot",
+          "explanation": "Stem is juo- + ending -t = juot.",
+          "fromDay": 13
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "chapter": 5,
+      "title": "Meidän tavallinen päivä",
+      "theme": "Making plans and appointments",
+      "category": "Plans",
+      "pages": "130–145",
+      "grammar": "verb + verb (haluan syödä) and verb + partitive (juon kahvia)",
+      "grammarFile": "grammar/verb-types.md",
+      "sentences": [
+        "Haluan oppia suomea.",
+        "Voitko tulla huomenna?",
+        "Minun täytyy mennä kauppaan.",
+        "Tykkään uida.",
+        "Tavataanko kello viisi?"
+      ],
+      "task": "Write a message suggesting a meeting: day, time and place.",
+      "words": [
+        {
+          "fi": "haluta",
+          "en": "to want",
+          "exampleFi": "Haluan oppia suomea.",
+          "source": "book"
+        },
+        {
+          "fi": "voida",
+          "en": "can/to be able",
+          "exampleFi": "Voitko tulla huomenna?",
+          "source": "book"
+        },
+        {
+          "fi": "osata",
+          "en": "to know how",
+          "exampleFi": "Osaan uida.",
+          "source": "book"
+        },
+        {
+          "fi": "täytyy",
+          "en": "must/have to",
+          "exampleFi": "Minun täytyy mennä.",
+          "source": "book"
+        },
+        {
+          "fi": "tykätä",
+          "en": "to like",
+          "exampleFi": "Tykkään kahvista.",
+          "source": "book"
+        },
+        {
+          "fi": "oppia",
+          "en": "to learn",
+          "exampleFi": "Opin uusia sanoja.",
+          "source": "book"
+        },
+        {
+          "fi": "tavata",
+          "en": "to meet",
+          "exampleFi": "Tavataanko huomenna?",
+          "source": "book"
+        },
+        {
+          "fi": "sopia",
+          "en": "to agree/to suit",
+          "exampleFi": "Sopiiko kello viisi?",
+          "source": "book"
+        },
+        {
+          "fi": "aika",
+          "en": "time",
+          "exampleFi": "Onko sinulla aikaa?",
+          "source": "book"
+        },
+        {
+          "fi": "kiire",
+          "en": "hurry/busy",
+          "exampleFi": "Minulla on kiire.",
+          "source": "book"
+        },
+        {
+          "fi": "vapaa",
+          "en": "free",
+          "exampleFi": "Olen vapaa lauantaina.",
+          "source": "book"
+        },
+        {
+          "fi": "ehkä",
+          "en": "maybe",
+          "exampleFi": "Ehkä huomenna.",
+          "source": "book"
+        },
+        {
+          "fi": "tietenkin",
+          "en": "of course",
+          "exampleFi": "Tietenkin!",
+          "source": "book"
+        },
+        {
+          "fi": "pelata",
+          "en": "to play (a game)",
+          "exampleFi": "Pelaan jalkapalloa.",
+          "source": "book"
+        },
+        {
+          "fi": "uida",
+          "en": "to swim",
+          "exampleFi": "Uin kesällä.",
+          "source": "book",
+          "phonetic": "ui-da"
+        },
+        {
+          "fi": "Harrastus",
+          "en": "Hobby",
+          "exampleFi": "Mitä harrastat?",
+          "exampleEn": "What are your hobbies?",
+          "phonetic": "har-ras-tus",
+          "source": "yours"
+        },
+        {
+          "fi": "Lukea",
+          "en": "To read",
+          "exampleFi": "Luen kirjoja.",
+          "exampleEn": "I read books.",
+          "phonetic": "lu-ke-a",
+          "source": "yours"
+        },
+        {
+          "fi": "Musiikki",
+          "en": "Music",
+          "exampleFi": "Kuuntelen musiikkia.",
+          "exampleEn": "I listen to music.",
+          "phonetic": "mu-siik-ki",
+          "source": "yours"
+        },
+        {
+          "fi": "Urheilu",
+          "en": "Sports",
+          "exampleFi": "Urheilu on kivaa.",
+          "exampleEn": "Sports are fun.",
+          "phonetic": "ur-hei-lu",
+          "source": "yours"
+        }
+      ],
+      "lessons": [
+        {
+          "fromDay": 14,
+          "title": "Vapaa-aika & Harrastukset",
+          "subtitle": "Free Time & Hobbies",
+          "html": "<h3>Expressing Likes ('Pitää')</h3>\n<p>Use <strong>Minä pidän + [Noun + -sta/-stä]</strong>:</p>\n<p>Pidän musiikista = I like music.</p>"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "mc",
+          "question": "How do you say 'I like music'?",
+          "options": [
+            "Pidän musiikki",
+            "Pidän musiikista",
+            "Minä musiikki",
+            "Musiikki on minuun"
+          ],
+          "correct": 1,
+          "explanation": "Verb 'pitää' requires elative (-sta/-stä) case.",
+          "fromDay": 14
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "chapter": 6,
+      "title": "Pedro ja Hanna etsivät asuntoa",
+      "theme": "Home, rooms, furniture",
+      "category": "Home",
+      "pages": "146–163",
+      "grammar": "Place cases: -ssa/-ssä, -sta/-stä, -Vn (inside cases) and -lla/-lta/-lle (outside cases) (see also Minikielioppi p. 314–315)",
+      "grammarFile": "grammar/cases.md",
+      "sentences": [
+        "Asun kerrostalossa.",
+        "Keittiössä on pöytä ja neljä tuolia.",
+        "Menen kotiin.",
+        "Tulen töistä.",
+        "Kirja on hyllyllä."
+      ],
+      "task": "Describe your home: type of building, rooms, and what is in each room.",
+      "words": [
+        {
+          "fi": "koti",
+          "en": "home",
+          "exampleFi": "Menen kotiin.",
+          "source": "book",
+          "phonetic": "ko-ti"
+        },
+        {
+          "fi": "asunto",
+          "en": "apartment",
+          "exampleFi": "Etsin asuntoa.",
+          "source": "book"
+        },
+        {
+          "fi": "kerrostalo",
+          "en": "apartment building",
+          "exampleFi": "Asun kerrostalossa.",
+          "source": "book"
+        },
+        {
+          "fi": "omakotitalo",
+          "en": "detached house",
+          "exampleFi": "He asuvat omakotitalossa.",
+          "source": "book"
+        },
+        {
+          "fi": "huone",
+          "en": "room",
+          "exampleFi": "Asunnossa on kolme huonetta.",
+          "source": "book",
+          "phonetic": "huo-ne"
+        },
+        {
+          "fi": "keittiö",
+          "en": "kitchen",
+          "exampleFi": "Keittiössä on pöytä.",
+          "source": "book"
+        },
+        {
+          "fi": "olohuone",
+          "en": "living room",
+          "exampleFi": "Olohuoneessa on sohva.",
+          "source": "book"
+        },
+        {
+          "fi": "makuuhuone",
+          "en": "bedroom",
+          "exampleFi": "Makuuhuone on pieni.",
+          "source": "book"
+        },
+        {
+          "fi": "kylpyhuone",
+          "en": "bathroom",
+          "exampleFi": "Kylpyhuoneessa on suihku.",
+          "source": "book"
+        },
+        {
+          "fi": "parveke",
+          "en": "balcony",
+          "exampleFi": "Parvekkeella on kukkia.",
+          "source": "book"
+        },
+        {
+          "fi": "pöytä",
+          "en": "table",
+          "exampleFi": "Kirja on pöydällä.",
+          "source": "book",
+          "phonetic": "poey-tae",
+          "exampleEn": "Book is on the table."
+        },
+        {
+          "fi": "tuoli",
+          "en": "chair",
+          "exampleFi": "Keittiössä on neljä tuolia.",
+          "source": "book",
+          "phonetic": "tuo-li"
+        },
+        {
+          "fi": "sänky",
+          "en": "bed",
+          "exampleFi": "Sänky on iso.",
+          "source": "book"
+        },
+        {
+          "fi": "sohva",
+          "en": "sofa",
+          "exampleFi": "Istun sohvalla.",
+          "source": "book"
+        },
+        {
+          "fi": "hylly",
+          "en": "shelf",
+          "exampleFi": "Kirjat ovat hyllyllä.",
+          "source": "book"
+        },
+        {
+          "fi": "ikkuna",
+          "en": "window",
+          "exampleFi": "Avaa ikkuna.",
+          "source": "book"
+        },
+        {
+          "fi": "ovi",
+          "en": "door",
+          "exampleFi": "Sulje ovi.",
+          "source": "book"
+        },
+        {
+          "fi": "Talo",
+          "en": "House",
+          "exampleFi": "Tämä on iso talo.",
+          "exampleEn": "This is a big house.",
+          "phonetic": "ta-lo",
+          "source": "yours"
+        }
+      ],
+      "lessons": [
+        {
+          "fromDay": 9,
+          "title": "Koti & Asuminen",
+          "subtitle": "Home & Furniture",
+          "html": "<h3>Inessiivi (-ssa/-ssä)</h3>\n<p>Means \"inside something\":</p>\n<p>Talo -> Talossa (In the house)<br>Huone -> Huoneessa (In the room)</p>"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "fitb",
+          "question": "Add inessiivi ending (-ssa) to 'talo': talo -> ______",
+          "correctAnswer": "talossa",
+          "explanation": "Talo + ssa = talossa (in the house).",
+          "fromDay": 9
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "chapter": 6,
+      "title": "Muutto",
+      "theme": "Moving house and calling the landlord",
+      "category": "Home",
+      "pages": "164–183",
+      "grammar": "Huoneessa on… (there is), tämä/tuo/se, imperative (sinä): tule! istu!",
+      "grammarFile": "grammar/cases.md",
+      "sentences": [
+        "Tämä asunto on valoisa.",
+        "Tuo talo on vanha.",
+        "Olohuoneessa on sohva.",
+        "Tule sisään!",
+        "Avaa ikkuna, kiitos."
+      ],
+      "task": "Write a call to a landlord (huoltoyhtiö): something is broken, ask them to fix it.",
+      "words": [
+        {
+          "fi": "muutto",
+          "en": "move (house)",
+          "exampleFi": "Muutto on lauantaina.",
+          "source": "book"
+        },
+        {
+          "fi": "muuttaa",
+          "en": "to move",
+          "exampleFi": "Muutan uuteen asuntoon.",
+          "source": "book"
+        },
+        {
+          "fi": "vuokra",
+          "en": "rent",
+          "exampleFi": "Vuokra on 900 euroa.",
+          "source": "book"
+        },
+        {
+          "fi": "vuokranantaja",
+          "en": "landlord",
+          "exampleFi": "Soitan vuokranantajalle.",
+          "source": "book"
+        },
+        {
+          "fi": "huoltoyhtiö",
+          "en": "maintenance company",
+          "exampleFi": "Soitan huoltoyhtiöön.",
+          "source": "book"
+        },
+        {
+          "fi": "rikki",
+          "en": "broken",
+          "exampleFi": "Hana on rikki.",
+          "source": "book"
+        },
+        {
+          "fi": "korjata",
+          "en": "to repair",
+          "exampleFi": "Voitteko korjata sen?",
+          "source": "book"
+        },
+        {
+          "fi": "jääkaappi",
+          "en": "fridge",
+          "exampleFi": "Jääkaappi ei toimi.",
+          "source": "book"
+        },
+        {
+          "fi": "lamppu",
+          "en": "lamp",
+          "exampleFi": "Lamppu on rikki.",
+          "source": "book"
+        },
+        {
+          "fi": "toimia",
+          "en": "to work (function)",
+          "exampleFi": "Uuni ei toimi.",
+          "source": "book"
+        },
+        {
+          "fi": "valoisa",
+          "en": "bright",
+          "exampleFi": "Asunto on valoisa.",
+          "source": "book"
+        },
+        {
+          "fi": "tämä",
+          "en": "this",
+          "exampleFi": "Tämä asunto on hyvä.",
+          "source": "book"
+        },
+        {
+          "fi": "tuo",
+          "en": "that",
+          "exampleFi": "Tuo talo on vanha.",
+          "source": "book"
+        },
+        {
+          "fi": "se",
+          "en": "it",
+          "exampleFi": "Se on kallis.",
+          "source": "book"
+        },
+        {
+          "fi": "tule sisään",
+          "en": "come in",
+          "exampleFi": "Tule sisään!",
+          "source": "book"
+        },
+        {
+          "fi": "istu",
+          "en": "sit (command)",
+          "exampleFi": "Istu alas.",
+          "source": "book"
+        },
+        {
+          "fi": "sulje",
+          "en": "close (command)",
+          "exampleFi": "Sulje ovi.",
+          "source": "book"
+        }
+      ],
+      "lessons": [],
+      "quiz": []
+    },
+    {
+      "day": 14,
+      "chapter": 0,
+      "title": "Review: chapters 4–6",
+      "theme": "Review week 2",
+      "category": "Review",
+      "pages": "293–300 (Lisäharjoitukset)",
+      "grammar": "Review: partitive, all verb types, place cases, imperative",
+      "grammarFile": "grammar/cases.md",
+      "sentences": [
+        "Minulla on pieni asunto.",
+        "Herään aikaisin ja menen töihin.",
+        "En juo maitoa.",
+        "Keittiössä on uusi jääkaappi.",
+        "Haluan ostaa uuden sohvan."
+      ],
+      "task": "Run the review quiz for days 8–13, then write 10 sentences: family, day, home.",
+      "words": [
+        {
+          "fi": "aikaisin",
+          "en": "early",
+          "exampleFi": "Herään aikaisin.",
+          "source": "book"
+        },
+        {
+          "fi": "myöhään",
+          "en": "late",
+          "exampleFi": "Tulin kotiin myöhään.",
+          "source": "book"
+        },
+        {
+          "fi": "usein",
+          "en": "often",
+          "exampleFi": "Käyn usein kaupassa.",
+          "source": "book"
+        },
+        {
+          "fi": "harvoin",
+          "en": "rarely",
+          "exampleFi": "Syön harvoin lihaa.",
+          "source": "book"
+        },
+        {
+          "fi": "nyt",
+          "en": "now",
+          "exampleFi": "Nyt on ilta.",
+          "source": "book"
+        },
+        {
+          "fi": "sitten",
+          "en": "then",
+          "exampleFi": "Sitten menen kotiin.",
+          "source": "book"
+        },
+        {
+          "fi": "ensin",
+          "en": "first",
+          "exampleFi": "Ensin syön aamupalaa.",
+          "source": "book"
+        },
+        {
+          "fi": "lopuksi",
+          "en": "finally",
+          "exampleFi": "Lopuksi menen nukkumaan.",
+          "source": "book"
+        },
+        {
+          "fi": "mutta",
+          "en": "but",
+          "exampleFi": "Asunto on pieni mutta kaunis.",
+          "source": "book"
+        },
+        {
+          "fi": "koska",
+          "en": "because",
+          "exampleFi": "Opiskelen suomea koska asun täällä.",
+          "source": "book"
+        }
+      ],
+      "lessons": [],
+      "quiz": []
+    },
+    {
+      "day": 15,
+      "chapter": 7,
+      "title": "Kylässä",
+      "theme": "Town, travelling, transport",
+      "category": "Travel",
+      "pages": "184–201",
+      "grammar": "Word types ending in -e, -nen and -i (huone → huoneessa, nainen → naisen, kieli → kielen)",
+      "grammarFile": "grammar/word-types.md",
+      "sentences": [
+        "Matkustan junalla Tampereelle.",
+        "Missä on rautatieasema?",
+        "Kirjasto on keskustassa.",
+        "Menen sinne bussilla.",
+        "Hotellihuone on mukava."
+      ],
+      "task": "Describe how you get from home to the city centre and what is there.",
+      "words": [
+        {
+          "fi": "keskusta",
+          "en": "city centre",
+          "exampleFi": "Kirjasto on keskustassa.",
+          "source": "book"
+        },
+        {
+          "fi": "katu",
+          "en": "street",
+          "exampleFi": "Asun tällä kadulla.",
+          "source": "book"
+        },
+        {
+          "fi": "kirjasto",
+          "en": "library",
+          "exampleFi": "Lainaan kirjan kirjastosta.",
+          "source": "book"
+        },
+        {
+          "fi": "rautatieasema",
+          "en": "railway station",
+          "exampleFi": "Missä on rautatieasema?",
+          "source": "book"
+        },
+        {
+          "fi": "pysäkki",
+          "en": "stop (bus/tram)",
+          "exampleFi": "Bussipysäkki on lähellä.",
+          "source": "book"
+        },
+        {
+          "fi": "juna",
+          "en": "train",
+          "exampleFi": "Matkustan junalla.",
+          "source": "book",
+          "phonetic": "ju-na"
+        },
+        {
+          "fi": "bussi",
+          "en": "bus",
+          "exampleFi": "Menen bussilla.",
+          "source": "book",
+          "phonetic": "bus-si",
+          "exampleEn": "I go by bus."
+        },
+        {
+          "fi": "raitiovaunu",
+          "en": "tram",
+          "exampleFi": "Raitiovaunu on täynnä.",
+          "source": "book"
+        },
+        {
+          "fi": "metro",
+          "en": "metro",
+          "exampleFi": "Metro tulee kahden minuutin päästä.",
+          "source": "book"
+        },
+        {
+          "fi": "auto",
+          "en": "car",
+          "exampleFi": "Minulla ei ole autoa.",
+          "source": "book"
+        },
+        {
+          "fi": "pyörä",
+          "en": "bike",
+          "exampleFi": "Ajan pyörällä töihin.",
+          "source": "book"
+        },
+        {
+          "fi": "lippu",
+          "en": "ticket",
+          "exampleFi": "Ostan lipun.",
+          "source": "book"
+        },
+        {
+          "fi": "matkustaa",
+          "en": "to travel",
+          "exampleFi": "Matkustan Tampereelle.",
+          "source": "book"
+        },
+        {
+          "fi": "hotelli",
+          "en": "hotel",
+          "exampleFi": "Hotelli on keskustassa.",
+          "source": "book"
+        },
+        {
+          "fi": "nainen",
+          "en": "woman",
+          "exampleFi": "Nainen odottaa bussia.",
+          "source": "book"
+        },
+        {
+          "fi": "lähellä",
+          "en": "near",
+          "exampleFi": "Kauppa on lähellä.",
+          "source": "book"
+        },
+        {
+          "fi": "kaukana",
+          "en": "far",
+          "exampleFi": "Lentokenttä on kaukana.",
+          "source": "book"
+        },
+        {
+          "fi": "Kaupunki",
+          "en": "City / Town",
+          "exampleFi": "Asun kaupungissa.",
+          "exampleEn": "I live in the city.",
+          "phonetic": "kau-pun-ki",
+          "source": "yours"
+        },
+        {
+          "fi": "Asema",
+          "en": "Station",
+          "exampleFi": "Missä on rautatieasema?",
+          "exampleEn": "Where is the railway station?",
+          "phonetic": "a-se-ma",
+          "source": "yours"
+        },
+        {
+          "fi": "Mennä",
+          "en": "To go",
+          "exampleFi": "Menen kotiin.",
+          "exampleEn": "I go home.",
+          "phonetic": "men-nae",
+          "source": "yours"
+        }
+      ],
+      "lessons": [
+        {
+          "fromDay": 11,
+          "title": "Kaupunki & Liikenne",
+          "subtitle": "City & Transportation",
+          "html": "<h3>Means of Transport (-lla/-llä)</h3>\n<p>Use the adessive ending to mean \"by [vehicle]\":</p>\n<p>Bussi -> bussilla (by bus)<br>Juna -> junalla (by train)</p>"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "mc",
+          "question": "How do you say 'by train' in Finnish?",
+          "options": [
+            "Juna",
+            "Junalla",
+            "Junassa",
+            "Junasta"
+          ],
+          "correct": 1,
+          "explanation": "Adding -lla gives the meaning 'by means of train'.",
+          "fromDay": 11
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "chapter": 7,
+      "title": "Kylässä",
+      "theme": "Visiting friends and at the hotel",
+      "category": "Past tense",
+      "pages": "202–219",
+      "grammar": "Imperfect (past tense) of olla, tulla, mennä + minulla oli",
+      "grammarFile": "grammar/past-tense.md",
+      "sentences": [
+        "Eilen olin kotona.",
+        "Menin kauppaan.",
+        "Tulin kotiin myöhään.",
+        "Minulla oli kiire.",
+        "Olimme ystävän luona kylässä."
+      ],
+      "task": "Write about yesterday: where you were, where you went, when you came home.",
+      "words": [
+        {
+          "fi": "olin",
+          "en": "I was",
+          "exampleFi": "Eilen olin kotona.",
+          "source": "book"
+        },
+        {
+          "fi": "oli",
+          "en": "was (he/she/it)",
+          "exampleFi": "Sää oli kaunis.",
+          "source": "book",
+          "phonetic": "o-li"
+        },
+        {
+          "fi": "menin",
+          "en": "I went",
+          "exampleFi": "Menin kauppaan.",
+          "source": "book"
+        },
+        {
+          "fi": "tulin",
+          "en": "I came",
+          "exampleFi": "Tulin kotiin myöhään.",
+          "source": "book"
+        },
+        {
+          "fi": "olimme",
+          "en": "we were",
+          "exampleFi": "Olimme kylässä.",
+          "source": "book"
+        },
+        {
+          "fi": "kylässä",
+          "en": "visiting (someone)",
+          "exampleFi": "Olen ystävän luona kylässä.",
+          "source": "book"
+        },
+        {
+          "fi": "ystävä",
+          "en": "friend",
+          "exampleFi": "Ystäväni asuu Turussa.",
+          "source": "book"
+        },
+        {
+          "fi": "vieras",
+          "en": "guest",
+          "exampleFi": "Meillä on vieraita.",
+          "source": "book"
+        },
+        {
+          "fi": "viime viikolla",
+          "en": "last week",
+          "exampleFi": "Viime viikolla olin Tampereella.",
+          "source": "book"
+        },
+        {
+          "fi": "viime vuonna",
+          "en": "last year",
+          "exampleFi": "Muutin Suomeen viime vuonna.",
+          "source": "book"
+        },
+        {
+          "fi": "varata",
+          "en": "to book",
+          "exampleFi": "Varaan hotellihuoneen.",
+          "source": "book"
+        },
+        {
+          "fi": "avain",
+          "en": "key",
+          "exampleFi": "Tässä on avain.",
+          "source": "book"
+        },
+        {
+          "fi": "yö",
+          "en": "night",
+          "exampleFi": "Hyvää yötä!",
+          "source": "book"
+        },
+        {
+          "fi": "mukava",
+          "en": "nice/comfortable",
+          "exampleFi": "Huone on mukava.",
+          "source": "book"
+        },
+        {
+          "fi": "Puhuin",
+          "en": "I spoke",
+          "exampleFi": "Puhuin suomea eilen.",
+          "exampleEn": "I spoke Finnish yesterday.",
+          "phonetic": "pu-hu-in",
+          "source": "yours"
+        },
+        {
+          "fi": "Ostin",
+          "en": "I bought",
+          "exampleFi": "Ostin uuden kirjan.",
+          "exampleEn": "I bought a new book.",
+          "phonetic": "os-tin",
+          "source": "yours"
+        },
+        {
+          "fi": "Meni",
+          "en": "Went",
+          "exampleFi": "Hän meni kotiin.",
+          "exampleEn": "S/he went home.",
+          "phonetic": "me-ni",
+          "source": "yours"
+        },
+        {
+          "fi": "Tein",
+          "en": "I made / did",
+          "exampleFi": "Tein ruokaa.",
+          "exampleEn": "I cooked food.",
+          "phonetic": "te-in",
+          "source": "yours"
+        }
+      ],
+      "lessons": [
+        {
+          "fromDay": 18,
+          "title": "Menneisyys & Imperfekti",
+          "subtitle": "Past Tense Basics",
+          "html": "<h3>Simple Past Tense marker '-i-'</h3>\n<p>Past tense is formed by adding <strong>-i-</strong> before personal ending:</p>\n<p>Puhu- + i + n -> Puhuin (I spoke)</p>"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "mc",
+          "question": "What is the past tense form of 'Olen' (I am)?",
+          "options": [
+            "Olen",
+            "Olin",
+            "Oli",
+            "Olemme"
+          ],
+          "correct": 1,
+          "explanation": "Olen -> Olin (I was).",
+          "fromDay": 18
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "chapter": 8,
+      "title": "Onnea uuteen kotiin!",
+      "theme": "Food and drink, parties",
+      "category": "Food",
+      "pages": "220–237",
+      "grammar": "Partitive with food and materials (kahvia, leipää, maitoa)",
+      "grammarFile": "grammar/cases.md",
+      "sentences": [
+        "Ostan maitoa, leipää ja juustoa.",
+        "Saisinko lasin vettä?",
+        "Syödään kakkua!",
+        "Haluatko teetä vai kahvia?",
+        "Onnea uuteen kotiin!"
+      ],
+      "task": "Write a shopping list and a short party invitation in Finnish.",
+      "words": [
+        {
+          "fi": "juhlat",
+          "en": "party",
+          "exampleFi": "Tervetuloa juhliin!",
+          "source": "book"
+        },
+        {
+          "fi": "kutsua",
+          "en": "to invite",
+          "exampleFi": "Kutsun sinut juhliin.",
+          "source": "book"
+        },
+        {
+          "fi": "onnea",
+          "en": "congratulations/luck",
+          "exampleFi": "Onnea uuteen kotiin!",
+          "source": "book"
+        },
+        {
+          "fi": "lahja",
+          "en": "gift",
+          "exampleFi": "Toin sinulle lahjan.",
+          "source": "book"
+        },
+        {
+          "fi": "lasi",
+          "en": "glass",
+          "exampleFi": "Saisinko lasin vettä?",
+          "source": "book"
+        },
+        {
+          "fi": "kuppi",
+          "en": "cup",
+          "exampleFi": "Juon kupin teetä.",
+          "source": "book"
+        },
+        {
+          "fi": "lautanen",
+          "en": "plate",
+          "exampleFi": "Lautanen on pöydällä.",
+          "source": "book"
+        },
+        {
+          "fi": "haarukka",
+          "en": "fork",
+          "exampleFi": "Tarvitsen haarukan.",
+          "source": "book"
+        },
+        {
+          "fi": "veitsi",
+          "en": "knife",
+          "exampleFi": "Veitsi on terävä.",
+          "source": "book"
+        },
+        {
+          "fi": "lusikka",
+          "en": "spoon",
+          "exampleFi": "Missä on lusikka?",
+          "source": "book"
+        },
+        {
+          "fi": "salaatti",
+          "en": "salad",
+          "exampleFi": "Syön salaattia.",
+          "source": "book"
+        },
+        {
+          "fi": "vihannekset",
+          "en": "vegetables",
+          "exampleFi": "Ostan vihanneksia.",
+          "source": "book"
+        },
+        {
+          "fi": "hedelmät",
+          "en": "fruit",
+          "exampleFi": "Hedelmät ovat terveellisiä.",
+          "source": "book"
+        },
+        {
+          "fi": "herkullinen",
+          "en": "delicious",
+          "exampleFi": "Kakku on herkullinen.",
+          "source": "book"
+        },
+        {
+          "fi": "nälkä",
+          "en": "hunger",
+          "exampleFi": "Minulla on nälkä.",
+          "source": "book"
+        },
+        {
+          "fi": "jano",
+          "en": "thirst",
+          "exampleFi": "Minulla on jano.",
+          "source": "book"
+        },
+        {
+          "fi": "maistua",
+          "en": "to taste",
+          "exampleFi": "Maistuu hyvältä!",
+          "source": "book"
+        },
+        {
+          "fi": "Kahvi",
+          "en": "Coffee",
+          "exampleFi": "Saisinko kahvin?",
+          "exampleEn": "Could I get a coffee?",
+          "phonetic": "kah-vi",
+          "source": "yours"
+        },
+        {
+          "fi": "Tee",
+          "en": "Tea",
+          "exampleFi": "Otan kuumaa teetä.",
+          "exampleEn": "I'll take hot tea.",
+          "phonetic": "tee",
+          "source": "yours"
+        },
+        {
+          "fi": "Vesi",
+          "en": "Water",
+          "exampleFi": "Lasi vettä, kiitos.",
+          "exampleEn": "A glass of water, please.",
+          "phonetic": "ve-si",
+          "source": "yours"
+        },
+        {
+          "fi": "Pulla",
+          "en": "Bun / Sweet roll",
+          "exampleFi": "Korvapuusti on hyvä pulla.",
+          "exampleEn": "Cinnamon roll is good pastry.",
+          "phonetic": "pul-la",
+          "source": "yours"
+        },
+        {
+          "fi": "Paljonko maksaa?",
+          "en": "How much does it cost?",
+          "exampleFi": "Paljonko tämä maksaa?",
+          "exampleEn": "How much is this?",
+          "phonetic": "pal-jon-ko mak-saa",
+          "source": "yours"
+        },
+        {
+          "fi": "Maito",
+          "en": "Milk",
+          "exampleFi": "Otan maitoa.",
+          "exampleEn": "I'll take some milk.",
+          "phonetic": "mai-to",
+          "source": "yours"
+        },
+        {
+          "fi": "Leipä",
+          "en": "Bread",
+          "exampleFi": "Ostan leipää.",
+          "exampleEn": "I buy bread.",
+          "phonetic": "lei-pae",
+          "source": "yours"
+        },
+        {
+          "fi": "Juusto",
+          "en": "Cheese",
+          "exampleFi": "Syön juustoa.",
+          "exampleEn": "I eat cheese.",
+          "phonetic": "juus-to",
+          "source": "yours"
+        },
+        {
+          "fi": "Omena",
+          "en": "Apple",
+          "exampleFi": "Kaksi omenaa.",
+          "exampleEn": "Two apples.",
+          "phonetic": "o-me-na",
+          "source": "yours"
+        },
+        {
+          "fi": "Kauppa",
+          "en": "Shop / Store",
+          "exampleFi": "Menen kauppaan.",
+          "exampleEn": "I go to the shop.",
+          "phonetic": "kaup-pa",
+          "source": "yours"
+        }
+      ],
+      "lessons": [
+        {
+          "fromDay": 5,
+          "title": "Kahvilassa & Ruoka",
+          "subtitle": "At the Cafe & Ordering Food",
+          "html": "<h3>Ordering Expressions</h3>\n<p>Polite ways to order food/drink in Finnish:</p>\n<ul>\n<li><strong>Otan...</strong> = I will take...</li>\n<li><strong>Saisinko...</strong> = Could I have...</li>\n<li><strong>..., kiitos.</strong> = ..., please.</li>\n</ul>"
+        },
+        {
+          "fromDay": 12,
+          "title": "Ainekset & Kaupassa Käynti",
+          "subtitle": "Grocery Shopping & Partitive Intro",
+          "html": "<h3>Partitiivi (Partitive Case) Intro</h3>\n<p>Used after numbers > 1, uncounted substances, or ongoing actions:</p>\n<p>Maito -> Maitoa | Leipä -> Leipää</p>"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "mc",
+          "question": "What does 'Paljonko maksaa?' mean?",
+          "options": [
+            "Where is the coffee?",
+            "How much does it cost?",
+            "Can I have water?",
+            "Thank you very much"
+          ],
+          "correct": 1,
+          "explanation": "'Paljonko maksaa?' asks for the total cost or price.",
+          "fromDay": 5
+        },
+        {
+          "type": "mc",
+          "question": "Which case is used after numbers higher than 1?",
+          "options": [
+            "Inessiivi",
+            "Partitiivi",
+            "Genetiivi",
+            "Elatiivi"
+          ],
+          "correct": 1,
+          "explanation": "Numbers > 1 require the noun in Partitive singular (e.g., kaksi omenaa).",
+          "fromDay": 12
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "chapter": 8,
+      "title": "Onnea uuteen kotiin!",
+      "theme": "Dates, celebrations, asking the way",
+      "category": "Celebrations",
+      "pages": "238–253",
+      "grammar": "Ordinal numbers, dates (17.10. = seitsemästoista lokakuuta) and postpositions (vieressä, edessä, takana)",
+      "grammarFile": "grammar/dates-postpositions.md",
+      "sentences": [
+        "Tänään on seitsemästoista lokakuuta.",
+        "Syntymäpäiväni on viides kesäkuuta.",
+        "Kauppa on pankin vieressä.",
+        "Bussipysäkki on talon edessä.",
+        "Mene suoraan ja käänny vasemmalle."
+      ],
+      "task": "Write your birthday and 3 holidays as dates, then give directions to a place near you.",
+      "words": [
+        {
+          "fi": "ensimmäinen",
+          "en": "first",
+          "exampleFi": "Tänään on ensimmäinen päivä.",
+          "source": "book"
+        },
+        {
+          "fi": "toinen",
+          "en": "second",
+          "exampleFi": "Tämä on toinen kerta.",
+          "source": "book"
+        },
+        {
+          "fi": "kolmas",
+          "en": "third",
+          "exampleFi": "Asun kolmannessa kerroksessa.",
+          "source": "book"
+        },
+        {
+          "fi": "viides",
+          "en": "fifth",
+          "exampleFi": "Syntymäpäiväni on viides kesäkuuta.",
+          "source": "book"
+        },
+        {
+          "fi": "syntymäpäivä",
+          "en": "birthday",
+          "exampleFi": "Hyvää syntymäpäivää!",
+          "source": "book"
+        },
+        {
+          "fi": "joulu",
+          "en": "Christmas",
+          "exampleFi": "Hyvää joulua!",
+          "source": "book"
+        },
+        {
+          "fi": "juhannus",
+          "en": "Midsummer",
+          "exampleFi": "Juhannus on kesäkuussa.",
+          "source": "book"
+        },
+        {
+          "fi": "vieressä",
+          "en": "next to",
+          "exampleFi": "Kauppa on pankin vieressä.",
+          "source": "book"
+        },
+        {
+          "fi": "edessä",
+          "en": "in front of",
+          "exampleFi": "Pysäkki on talon edessä.",
+          "source": "book"
+        },
+        {
+          "fi": "takana",
+          "en": "behind",
+          "exampleFi": "Puisto on koulun takana.",
+          "source": "book"
+        },
+        {
+          "fi": "välissä",
+          "en": "between",
+          "exampleFi": "Kahvila on kirjaston ja pankin välissä.",
+          "source": "book"
+        },
+        {
+          "fi": "kulma",
+          "en": "corner",
+          "exampleFi": "Kauppa on kulmassa.",
+          "source": "book"
+        },
+        {
+          "fi": "suoraan",
+          "en": "straight",
+          "exampleFi": "Mene suoraan.",
+          "source": "book"
+        },
+        {
+          "fi": "oikealle",
+          "en": "to the right",
+          "exampleFi": "Käänny oikealle.",
+          "source": "book"
+        },
+        {
+          "fi": "vasemmalle",
+          "en": "to the left",
+          "exampleFi": "Käänny vasemmalle.",
+          "source": "book"
+        },
+        {
+          "fi": "kääntyä",
+          "en": "to turn",
+          "exampleFi": "Käänny kulmasta.",
+          "source": "book"
+        },
+        {
+          "fi": "Sauna",
+          "en": "Sauna",
+          "exampleFi": "Lauantaina menemme saunaan.",
+          "exampleEn": "On Saturday we go to sauna.",
+          "phonetic": "sau-na",
+          "source": "yours"
+        },
+        {
+          "fi": "Sisu",
+          "en": "Grit / Perseverance",
+          "exampleFi": "Suomalaisilla on sisua.",
+          "exampleEn": "Finns have grit.",
+          "phonetic": "si-su",
+          "source": "yours"
+        },
+        {
+          "fi": "Mökki",
+          "en": "Summer cottage",
+          "exampleFi": "Kesällä olen mökillä.",
+          "exampleEn": "In summer I am at cottage.",
+          "phonetic": "moek-ki",
+          "source": "yours"
+        },
+        {
+          "fi": "Kahvitauko",
+          "en": "Coffee break",
+          "exampleFi": "Nyt on kahvitauko!",
+          "exampleEn": "Now it's coffee break time!",
+          "phonetic": "kah-vi-tau-ko",
+          "source": "yours"
+        },
+        {
+          "fi": "Kippis",
+          "en": "Cheers!",
+          "exampleFi": "Kippis kaikille!",
+          "exampleEn": "Cheers, everyone!",
+          "phonetic": "kip-pis",
+          "source": "yours"
+        }
+      ],
+      "lessons": [
+        {
+          "fromDay": 19,
+          "title": "Suomalainen Kulttuuri",
+          "subtitle": "Finnish Culture & Expressions",
+          "html": "<h3>Key Cultural Words</h3>\n<p>Understanding culture enhances language fluency! Sisu, Sauna, and Kahvitauko are cornerstones of Finnish life.</p>"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "mc",
+          "question": "What does the famous Finnish concept 'Sisu' refer to?",
+          "options": [
+            "Coffee break",
+            "Grit, determination, and resilience",
+            "Summer house",
+            "Sauna stove"
+          ],
+          "correct": 1,
+          "explanation": "Sisu represents mental fortitude and determination.",
+          "fromDay": 19
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "chapter": 9,
+      "title": "Ensimmäinen työpäivä",
+      "theme": "Work, professions, at the restaurant",
+      "category": "Work",
+      "pages": "254–289",
+      "grammar": "Object (total vs partial), kenelle/keneltä, verb types 3 and 4 gradation (see also Minikielioppi p. 312)",
+      "grammarFile": "grammar/object.md",
+      "sentences": [
+        "Olen ohjelmistokehittäjä.",
+        "Työpäiväni alkaa kello yhdeksän.",
+        "Luen sähköpostit aamulla.",
+        "Annan kirjan opettajalle.",
+        "Otan päivän keiton, kiitos."
+      ],
+      "task": "Describe your job: what you do, where, when your day starts, and order lunch in Finnish.",
+      "words": [
+        {
+          "fi": "työ",
+          "en": "work/job",
+          "exampleFi": "Minulla on uusi työ.",
+          "source": "book"
+        },
+        {
+          "fi": "työpaikka",
+          "en": "workplace",
+          "exampleFi": "Työpaikkani on keskustassa.",
+          "source": "book"
+        },
+        {
+          "fi": "työpäivä",
+          "en": "working day",
+          "exampleFi": "Työpäivä alkaa kello yhdeksän.",
+          "source": "book"
+        },
+        {
+          "fi": "ammatti",
+          "en": "profession",
+          "exampleFi": "Mikä sinun ammattisi on?",
+          "source": "book"
+        },
+        {
+          "fi": "ohjelmistokehittäjä",
+          "en": "software developer",
+          "exampleFi": "Olen ohjelmistokehittäjä.",
+          "source": "book"
+        },
+        {
+          "fi": "lääkäri",
+          "en": "doctor",
+          "exampleFi": "Hän on lääkäri.",
+          "source": "book"
+        },
+        {
+          "fi": "sairaanhoitaja",
+          "en": "nurse",
+          "exampleFi": "Sairaanhoitaja auttaa.",
+          "source": "book"
+        },
+        {
+          "fi": "myyjä",
+          "en": "salesperson",
+          "exampleFi": "Myyjä on ystävällinen.",
+          "source": "book"
+        },
+        {
+          "fi": "kokki",
+          "en": "cook/chef",
+          "exampleFi": "Kokki tekee ruokaa.",
+          "source": "book"
+        },
+        {
+          "fi": "kollega",
+          "en": "colleague",
+          "exampleFi": "Kollegani on mukava.",
+          "source": "book"
+        },
+        {
+          "fi": "palaveri",
+          "en": "meeting",
+          "exampleFi": "Minulla on palaveri kello kymmenen.",
+          "source": "book"
+        },
+        {
+          "fi": "tietokone",
+          "en": "computer",
+          "exampleFi": "Teen töitä tietokoneella.",
+          "source": "book"
+        },
+        {
+          "fi": "antaa",
+          "en": "to give",
+          "exampleFi": "Annan kirjan opettajalle.",
+          "source": "book"
+        },
+        {
+          "fi": "lounas",
+          "en": "lunch",
+          "exampleFi": "Syön lounasta kello yksitoista.",
+          "source": "book"
+        },
+        {
+          "fi": "ravintola",
+          "en": "restaurant",
+          "exampleFi": "Menemme ravintolaan.",
+          "source": "book"
+        },
+        {
+          "fi": "lasku",
+          "en": "bill",
+          "exampleFi": "Saisinko laskun?",
+          "source": "book"
+        },
+        {
+          "fi": "päivän keitto",
+          "en": "soup of the day",
+          "exampleFi": "Otan päivän keiton.",
+          "source": "book"
+        }
+      ],
+      "lessons": [],
+      "quiz": []
+    },
+    {
+      "day": 20,
+      "chapter": 0,
+      "title": "Final review: chapters 1–9",
+      "theme": "Final review",
+      "category": "Review",
+      "pages": "300–309 (Lisäharjoitukset), 310–325 (Minikielioppi), 326–328 (Puhekieli)",
+      "grammar": "Read Minikielioppi (p. 310) as a summary of everything",
+      "grammarFile": "grammar/cases.md",
+      "sentences": [
+        "Minä olen ___ ja asun Suomessa.",
+        "Opiskelen suomea joka päivä.",
+        "Eilen menin kauppaan ja ostin leipää.",
+        "Minulla on ___.",
+        "Huomenna aloitan Suomen mestari 2!"
+      ],
+      "task": "Run the full review quiz, then write a 15-sentence text about yourself, your home, your day and your work.",
+      "words": [
+        {
+          "fi": "osata suomea",
+          "en": "to know Finnish",
+          "exampleFi": "Osaan vähän suomea.",
+          "source": "book"
+        },
+        {
+          "fi": "jatkaa",
+          "en": "to continue",
+          "exampleFi": "Jatkan opiskelua.",
+          "source": "book"
+        },
+        {
+          "fi": "aloittaa",
+          "en": "to start",
+          "exampleFi": "Aloitan uuden kirjan.",
+          "source": "book"
+        },
+        {
+          "fi": "valmis",
+          "en": "ready/finished",
+          "exampleFi": "Kurssi on valmis.",
+          "source": "book"
+        },
+        {
+          "fi": "taso",
+          "en": "level",
+          "exampleFi": "Minun tasoni on A1.",
+          "source": "book"
+        },
+        {
+          "fi": "tavoite",
+          "en": "goal",
+          "exampleFi": "Tavoitteeni on B1.",
+          "source": "book"
+        },
+        {
+          "fi": "edistyä",
+          "en": "to make progress",
+          "exampleFi": "Edistyn joka päivä.",
+          "source": "book"
+        },
+        {
+          "fi": "ylpeä",
+          "en": "proud",
+          "exampleFi": "Olen ylpeä itsestäni.",
+          "source": "book"
+        },
+        {
+          "fi": "hienoa",
+          "en": "great",
+          "exampleFi": "Hienoa!",
+          "source": "book"
+        },
+        {
+          "fi": "onnittelut",
+          "en": "congratulations",
+          "exampleFi": "Onnittelut!",
+          "source": "book"
+        },
+        {
+          "fi": "Onnea!",
+          "en": "Congratulations!",
+          "exampleFi": "Onnea valmistumisesta!",
+          "exampleEn": "Congratulations on graduating!",
+          "phonetic": "on-ne-a",
+          "source": "yours"
+        },
+        {
+          "fi": "Osaan suomea",
+          "en": "I can speak/know Finnish",
+          "exampleFi": "Nyt osaan suomea!",
+          "exampleEn": "Now I know Finnish!",
+          "phonetic": "o-saan su-o-me-a",
+          "source": "yours"
+        },
+        {
+          "fi": "Oppia",
+          "en": "To learn",
+          "exampleFi": "On kiva oppia lisää.",
+          "exampleEn": "It is nice to learn more.",
+          "phonetic": "op-pi-a",
+          "source": "yours"
+        },
+        {
+          "fi": "Tulevaisuus",
+          "en": "Future",
+          "exampleFi": "Onnea tulevaisuuteen!",
+          "exampleEn": "Good luck for the future!",
+          "phonetic": "tu-le-vai-suus",
+          "source": "yours"
+        },
+        {
+          "fi": "Näkemiin",
+          "en": "Goodbye",
+          "exampleFi": "Näkemiin ja kiitos!",
+          "exampleEn": "Goodbye and thanks!",
+          "phonetic": "nae-ke-miin",
+          "source": "yours"
+        }
+      ],
+      "lessons": [
+        {
+          "fromDay": 20,
+          "title": "Kertaus & Lopullinen Testi",
+          "subtitle": "Full Course Review & Master Quiz",
+          "html": "<h3>🎉 Onnittelut! (Congratulations!)</h3>\n<p>You have completed the foundational 20-day Suomi 1 curriculum. You are now equipped with core vocabulary, basic cases, and verb structures!</p>"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "mc",
+          "question": "How do you say 'I speak Finnish'?",
+          "options": [
+            "Puhun suomea",
+            "Olen suomi",
+            "Minä suomessa",
+            "Minulla on suomi"
+          ],
+          "correct": 0,
+          "explanation": "'Puhun suomea' uses verb type 1 'puhua' + partitive 'suomea'.",
+          "fromDay": 20
+        },
+        {
+          "type": "mc",
+          "question": "What case means 'inside something'?",
+          "options": [
+            "Elatiivi (-sta)",
+            "Inessiivi (-ssa)",
+            "Adessiivi (-lla)",
+            "Allatiivi (-lle)"
+          ],
+          "correct": 1,
+          "explanation": "Inessiivi (-ssa/-ssä) means in/inside.",
+          "fromDay": 20
+        }
+      ]
+    }
+  ]
+}

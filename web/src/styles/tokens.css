@@ -1,0 +1,51 @@
+/* Design tokens — taken from the original Oppimaan Suomea palette (nordic blues, aurora green, slate neutrals).
+   Layout: sticky header, day sidebar on the left (drawer on phones), content column on the right. */
+:root {
+  --bg: #f8fafc;            /* nordic snow */
+  --surface: #ffffff;
+  --surface-2: #f1f5f9;
+  --ink: #0f172a;
+  --ink-2: #334155;
+  --muted: #64748b;
+  --line: #e2e8f0;
+  --accent: #0369a1;        /* nordic-600 */
+  --accent-2: #0284c7;      /* nordic-500 */
+  --accent-soft: #e0effe;   /* nordic-100 */
+  --accent-ink: #ffffff;
+  --cyan: #06b6d4;
+  --aurora: #10b981;        /* done */
+  --aurora-soft: #d1fae5;
+  --aurora-ink: #047857;
+  --amber: #f59e0b;         /* badges, streak */
+  --amber-soft: #fef3c7;
+  --danger: #dc2626;
+  --danger-soft: #fee2e2;
+  --banner-from: #075985;
+  --banner-to: #0891b2;
+  --shadow: 0 1px 2px rgb(15 23 42 / 0.06), 0 4px 16px rgb(15 23 42 / 0.05);
+  --radius: 16px;
+  --radius-sm: 10px;
+  --font: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --mono: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+  --header-h: 60px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0b1220; --surface: #111a2c; --surface-2: #17223a; --ink: #f1f5f9; --ink-2: #cbd5e1;
+    --muted: #94a3b8; --line: #23304a; --accent: #38bdf8; --accent-2: #7dd3fc; --accent-soft: #0c2a43;
+    --accent-ink: #082f49; --cyan: #22d3ee; --aurora: #34d399; --aurora-soft: #0b3328; --aurora-ink: #6ee7b7;
+    --amber: #fbbf24; --amber-soft: #3a2a08; --danger: #f87171; --danger-soft: #3b1414;
+    --banner-from: #0c4a6e; --banner-to: #155e75;
+    --shadow: 0 1px 2px rgb(0 0 0 / 0.3), 0 4px 16px rgb(0 0 0 / 0.25);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0b1220; --surface: #111a2c; --surface-2: #17223a; --ink: #f1f5f9; --ink-2: #cbd5e1;
+  --muted: #94a3b8; --line: #23304a; --accent: #38bdf8; --accent-2: #7dd3fc; --accent-soft: #0c2a43;
+  --accent-ink: #082f49; --cyan: #22d3ee; --aurora: #34d399; --aurora-soft: #0b3328; --aurora-ink: #6ee7b7;
+  --amber: #fbbf24; --amber-soft: #3a2a08; --danger: #f87171; --danger-soft: #3b1414;
+  --banner-from: #0c4a6e; --banner-to: #155e75;
+  --shadow: 0 1px 2px rgb(0 0 0 / 0.3), 0 4px 16px rgb(0 0 0 / 0.25);
+  color-scheme: dark;
+}
