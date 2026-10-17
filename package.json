@@ -10,6 +10,8 @@
     "quiz:reverse": "node quiz/quiz.js --reverse",
     "quiz:long": "node quiz/quiz.js --n 25",
     "progress": "node quiz/progress.js",
-    "plan": "node plan/build.js"
+    "plan": "node plan/build.js",
+    "web": "npm --prefix web run dev",
+    "web:build": "npm --prefix web run build"
   }
 }

@@ -1,0 +1,24 @@
+{
+  "name": "oppimaan-suomea",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Interactive 20-day Finnish course (Suomen mestari 1) with flashcards, quizzes and progress tracking",
+  "scripts": {
+    "data": "node scripts/build-data.mjs",
+    "dev": "npm run data && vite",
+    "build": "npm run data && vite build && node scripts/to-artifact.mjs",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "canvas-confetti": "1.9.3",
+    "lucide-react": "0.462.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.3.4",
+    "vite": "5.4.11",
+    "vite-plugin-singlefile": "2.0.3"
+  }
+}

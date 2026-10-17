@@ -1,0 +1,13 @@
+{
+  "_comment": "days: your original day number → the book-plan day it is merged into. categories: label shown for each book day.",
+  "days": {
+    "1": 1, "2": 2, "3": 1, "4": 4, "5": 17, "6": 8, "7": 4, "8": 5, "9": 12, "10": 2,
+    "11": 15, "12": 17, "13": 10, "14": 11, "15": 9, "16": 8, "17": 3, "18": 16, "19": 18, "20": 20
+  },
+  "categories": {
+    "1": "Basics", "2": "Numbers", "3": "Countries", "4": "Questions", "5": "Weather",
+    "6": "Describing", "7": "Review", "8": "Family", "9": "Shopping", "10": "Daily life",
+    "11": "Plans", "12": "Home", "13": "Home", "14": "Review", "15": "Travel",
+    "16": "Past tense", "17": "Food", "18": "Celebrations", "19": "Work", "20": "Review"
+  }
+}

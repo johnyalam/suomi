@@ -57,9 +57,9 @@ Type `q` to stop.
 **6. Read the plan:** open [`plan/20-days.md`](plan/20-days.md). Each day lists book pages,
 grammar, words, model sentences and a writing task.
 
-**7. Open the tracker:** the interactive *Suomi 20 Päivää* page (your claude.ai artifact) has the same
-20 days with checkboxes, a built-in flashcard quiz and the learning-curve chart. It syncs across
-your devices. A local copy is in [`tracker.html`](tracker.html) (that copy saves to your browser only).
+**7. Open the app:** *Oppimaan Suomea* (your claude.ai artifact) has all 20 days with flashcards and audio,
+quizzes, grammar, badges and the learning curve, synced across your devices. To run it locally:
+`npm --prefix web install` once, then `npm run web`. See [`web/README.md`](web/README.md).
 
 **8. Get the book ready** next to your keyboard. Page numbers in the plan are the ones printed
 in the book. Exercise answers start on p. 329.
@@ -85,7 +85,7 @@ This prints the lesson and creates today's file in `journal/`.
 | 3 | Read the grammar note | `grammar/*.md` |
 | 4 | Quiz today's words, both directions | `npm run quiz -- --day 5` then `npm run quiz -- --day 5 --reverse` |
 | 5 | Write 3–5 sentences in today's journal | `journal/YYYY-MM-DD.md` |
-| 6 | Tick the day off in the tracker | 4 checkboxes: Kielioppi, Sanat, Visa, Lauseet |
+| 6 | Tick the day off in the app | 4 checkboxes: Kielioppi, Sanat, Visa, Lauseet |
 | 7 | Update your learning curve | `npm run progress` |
 | 8 | Commit and push | see below |
 
@@ -116,6 +116,8 @@ npm run quiz -- --review 20 --n 40      # day 20: everything
 | `npm run quiz -- --n 20` | Number of questions |
 | `npm run progress` | Rebuild `PROGRESS.md` (learning curve, scores, hard words) |
 | `npm run plan` | Rebuild `plan/20-days.md` after you edit `plan/plan.json` |
+| `npm run web` | Start the React app locally (run `npm --prefix web install` once first) |
+| `npm run web:build` | Build the app into `web/dist/index.html` |
 
 Words you miss are asked more often. Answers must match exactly, including ä and ö.
 
@@ -125,7 +127,7 @@ Words you miss are asked more often. Answers must match exactly, including ä an
 suomi/
 ├── README.md              ← this file: goals, setup, daily loop
 ├── PROGRESS.md            ← generated learning curve (npm run progress)
-├── tracker.html           ← local copy of the interactive tracker
+├── web/                   ← the React app (see web/README.md)
 ├── package.json           ← npm scripts
 ├── progress.json          ← created by the quiz: right/wrong per word
 ├── history.json           ← created by the quiz: every quiz score
