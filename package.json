@@ -1,0 +1,12 @@
+{
+  "name": "suomi",
+  "version": "1.0.0",
+  "description": "Learning Finnish, tracked with git",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "quiz": "node quiz/quiz.js",
+    "quiz:reverse": "node quiz/quiz.js --reverse",
+    "quiz:long": "node quiz/quiz.js --n 25"
+  }
+}
