@@ -5,6 +5,12 @@
 //   node quiz/quiz.js --reverse    → English → Finnish
 //   node quiz/quiz.js --n 20       → 20 questions
 //   node quiz/quiz.js --file food  → only vocab/*food*.csv
+//   node quiz/quiz.js --day 5      → only today's words (vocab/day-05.csv)
+//   node quiz/quiz.js --review 6   → review days 1–6
+//   node quiz/quiz.js --review 8-13 → review days 8–13
+//
+// Every finished quiz is also logged to history.json (date, day, score),
+// which `npm run progress` turns into PROGRESS.md.
 //
 // Vocab CSV format (vocab/*.csv), first line is the header:
 //   finnish,english,example
@@ -25,6 +31,29 @@ const args = process.argv.slice(2);
 const reverse = args.includes("--reverse");
 const n = Number(args[args.indexOf("--n") + 1]) || 10;
 const fileFilter = args.includes("--file") ? args[args.indexOf("--file") + 1] : "";
+const HISTORY_FILE = path.join(ROOT, "history.json");
+
+// --day N → one day, --review N or --review A-B → a range of days
+const optValue = (flag) => (args.includes(flag) ? args[args.indexOf(flag) + 1] : null);
+const dayOpt = optValue("--day");
+const reviewOpt = optValue("--review");
+let dayRange = null; // [from, to]
+if (dayOpt) dayRange = [Number(dayOpt), Number(dayOpt)];
+if (reviewOpt) {
+  const [a, b] = reviewOpt.split("-").map(Number);
+  dayRange = b ? [a, b] : [1, a];
+}
+if (dayRange && dayRange.some((d) => !Number.isInteger(d) || d < 1)) {
+  console.error("Use --day 5, --review 6 or --review 8-13");
+  process.exit(1);
+}
+
+function fileMatches(f) {
+  if (!f.endsWith(".csv") || !f.includes(fileFilter)) return false;
+  if (!dayRange) return true;
+  const m = f.match(/^day-(\d+)\.csv$/);
+  return m && Number(m[1]) >= dayRange[0] && Number(m[1]) <= dayRange[1];
+}
 
 // ---------- load words ----------
 function loadWords() {
@@ -34,9 +63,11 @@ function loadWords() {
   }
   const files = fs
     .readdirSync(VOCAB_DIR)
-    .filter((f) => f.endsWith(".csv") && f.includes(fileFilter));
+    .filter(fileMatches)
+    .sort();
 
   const words = [];
+  const seen = new Set(); // the same word in two files is asked only once
   for (const file of files) {
     const lines = fs.readFileSync(path.join(VOCAB_DIR, file), "utf8").split(/\r?\n/);
     for (const line of lines.slice(1)) {          // skip header
@@ -44,6 +75,8 @@ function loadWords() {
       // split on the first two commas only, so the example may contain commas
       const [finnish, english, ...rest] = line.split(",");
       if (!finnish || !english) continue;
+      if (seen.has(finnish.trim())) continue;
+      seen.add(finnish.trim());
       words.push({
         finnish: finnish.trim(),
         english: english.trim(),
@@ -145,6 +178,25 @@ rl.close();
 saveProgress(progress);
 
 console.log(`Score: ${score}/${asked}`);
+
+// log this session so `npm run progress` can draw the learning curve
+if (asked > 0) {
+  let history = [];
+  try {
+    history = JSON.parse(fs.readFileSync(HISTORY_FILE, "utf8"));
+  } catch {}
+  const pad = (x) => String(x).padStart(2, "0");
+  const now = new Date();
+  history.push({
+    date: `${now.getFullYear()}-${pad(now.getMonth() + 1)}-${pad(now.getDate())}`,
+    mode: dayOpt ? `day ${dayOpt}` : reviewOpt ? `review ${reviewOpt}` : fileFilter || "all",
+    reverse,
+    score,
+    asked,
+    percent: Math.round((score / asked) * 100),
+  });
+  fs.writeFileSync(HISTORY_FILE, JSON.stringify(history, null, 2) + "\n");
+}
 
 // show your 5 hardest words
 const hardest = Object.entries(progress)

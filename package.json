@@ -1,12 +1,15 @@
 {
   "name": "suomi",
   "version": "1.0.0",
-  "description": "Learning Finnish, tracked with git",
+  "description": "Learning Finnish in 20 days with Suomen mestari 1, tracked with git",
   "type": "module",
   "private": true,
   "scripts": {
+    "day": "node quiz/today.js",
     "quiz": "node quiz/quiz.js",
     "quiz:reverse": "node quiz/quiz.js --reverse",
-    "quiz:long": "node quiz/quiz.js --n 25"
+    "quiz:long": "node quiz/quiz.js --n 25",
+    "progress": "node quiz/progress.js",
+    "plan": "node plan/build.js"
   }
 }
